@@ -1,0 +1,801 @@
+,name,salary,min_salary,max_salary,currency_salary,link,source
+0,Ведущий инженер по тестированию (python),З/П не указана,,,,https://hh.ru/vacancy/73199414?from=vacancy_search_list&query=python,hh.ru
+1,Аналитик данных / Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/69166398?from=vacancy_search_list&query=python,hh.ru
+2,Аналитик данных / Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/76869170?from=vacancy_search_list&query=python,hh.ru
+3,Преподаватель Backend направления,6 000 000 – 10 000 000 сум,6000000.0,10000000.0,сум,https://hh.ru/vacancy/77349432?from=vacancy_search_list&query=python,hh.ru
+4,Младший инженер по тестированию (QA performance engineer Junior),З/П не указана,,,,https://hh.ru/vacancy/76087775?from=vacancy_search_list&query=python,hh.ru
+5,Специалист по углубленной аналитике данных (Data scientist),З/П не указана,,,,https://hh.ru/vacancy/72920605?from=vacancy_search_list&query=python,hh.ru
+6,SQL разработчик,З/П не указана,,,,https://hh.ru/vacancy/77286859?from=vacancy_search_list&query=python,hh.ru
+7,Разработчик Python,200 000 – 250 000 руб.,200000.0,250000.0,руб.,https://hh.ru/vacancy/77091466?from=vacancy_search_list&query=python,hh.ru
+8,Программист Python Junior,З/П не указана,,,,https://hh.ru/vacancy/77146976?from=vacancy_search_list&query=python,hh.ru
+9,"Python-разработчик (Django, DRF)",60 000 – 220 000 руб.,60000.0,220000.0,руб.,https://hh.ru/vacancy/70705466?from=vacancy_search_list&query=python,hh.ru
+10,Разработчик Python,200 000 – 250 000 руб.,200000.0,250000.0,руб.,https://hh.ru/vacancy/77091465?from=vacancy_search_list&query=python,hh.ru
+11,Разработчик C# / Python,300 000 – 500 000 руб.,300000.0,500000.0,руб.,https://hh.ru/vacancy/71147348?from=vacancy_search_list&query=python,hh.ru
+12,Python Backend Developer / WEB - разработчик,300 000 – 450 000 руб.,300000.0,450000.0,руб.,https://hh.ru/vacancy/72216524?from=vacancy_search_list&query=python,hh.ru
+13,Ведущий Python разработчик (удаленка),до 8 000 USD,,8000.0,USD,https://hh.ru/vacancy/76832091?from=vacancy_search_list&query=python,hh.ru
+14,Backend (Python) инженер,800 000 – 1 300 000 KZT,800000.0,1300000.0,KZT,https://hh.ru/vacancy/77382317?from=vacancy_search_list&query=python,hh.ru
+15,Junior+ Python Backend Developer,до 120 000 руб.,,120000.0,руб.,https://hh.ru/vacancy/77372405?from=vacancy_search_list&query=python,hh.ru
+16,Backend developer (Python),60 000 – 150 000 руб.,60000.0,150000.0,руб.,https://hh.ru/vacancy/76716478?from=vacancy_search_list&query=python,hh.ru
+17,Junior+ программист-разработчик на Python,до 150 000 руб.,,150000.0,руб.,https://hh.ru/vacancy/77357729?from=vacancy_search_list&query=python,hh.ru
+18,Python разработчик,от 25 000 руб.,25000.0,,руб.,https://hh.ru/vacancy/76818478?from=vacancy_search_list&query=python,hh.ru
+19,Python Developer по работе с ChatGPT (генеративным AI),З/П не указана,,,,https://hh.ru/vacancy/77144612?from=vacancy_search_list&query=python,hh.ru
+20,Программист Python (Django),160 000 – 180 000 руб.,160000.0,180000.0,руб.,https://hh.ru/vacancy/76826004?from=vacancy_search_list&query=python,hh.ru
+21,Ведущий Python Backend разработчик,до 5 000 USD,,5000.0,USD,https://hh.ru/vacancy/77304894?from=vacancy_search_list&query=python,hh.ru
+22,Backend-разработчик / Python developer,100 000 – 200 000 руб.,100000.0,200000.0,руб.,https://hh.ru/vacancy/76358462?from=vacancy_search_list&query=python,hh.ru
+23,Начинающий программист BI (sql/python/js),50 000 – 70 000 руб.,50000.0,70000.0,руб.,https://hh.ru/vacancy/76569529?from=vacancy_search_list&query=python,hh.ru
+24,Data Scientist middle+/Senior,250 000 – 350 000 руб.,250000.0,350000.0,руб.,https://hh.ru/vacancy/77208642?from=vacancy_search_list&query=python,hh.ru
+25,Аналитик данных / Data Analyst,160 000 – 200 000 руб.,160000.0,200000.0,руб.,https://hh.ru/vacancy/77334669?from=vacancy_search_list&query=python,hh.ru
+26,Python-developer,100 000 – 215 000 руб.,100000.0,215000.0,руб.,https://hh.ru/vacancy/67635148?from=vacancy_search_list&query=python,hh.ru
+27,Data Analyst (Remote),3 000 – 4 000 USD,3000.0,4000.0,USD,https://hh.ru/vacancy/74736549?from=vacancy_search_list&query=python,hh.ru
+28,Удаленный стажер-аналитик (графовые базы данных),З/П не указана,,,,https://hh.ru/vacancy/77347089?from=vacancy_search_list&query=python,hh.ru
+29,Backend разработчик Python,35 000 – 50 000 руб.,35000.0,50000.0,руб.,https://hh.ru/vacancy/77336288?from=vacancy_search_list&query=python,hh.ru
+30,Data Scientist,160 000 – 200 000 руб.,160000.0,200000.0,руб.,https://hh.ru/vacancy/76925483?from=vacancy_search_list&query=python,hh.ru
+31,Разработчик бэкэнд (Python),150 000 – 180 000 руб.,150000.0,180000.0,руб.,https://hh.ru/vacancy/76712573?from=vacancy_search_list&query=python,hh.ru
+32,Python Backend Developer / Data Engineer,до 250 000 руб.,,250000.0,руб.,https://hh.ru/vacancy/77121880?from=vacancy_search_list&query=python,hh.ru
+33,Стажер,до 80 000 руб.,,80000.0,руб.,https://hh.ru/vacancy/76809922?from=vacancy_search_list&query=python,hh.ru
+34,АККРЕДИТОВАННАЯ КОМПАНИЯ Data Scientist / Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/48411370?from=vacancy_search_list&query=python,hh.ru
+35,Middle Python developer (Казань),от 160 000 руб.,160000.0,,руб.,https://hh.ru/vacancy/76115939?from=vacancy_search_list&query=python,hh.ru
+36,Data Engineer,200 000 – 280 000 руб.,200000.0,280000.0,руб.,https://hh.ru/vacancy/77015802?from=vacancy_search_list&query=python,hh.ru
+37,Python (Django) Backend developer,до 280 000 руб.,,280000.0,руб.,https://hh.ru/vacancy/76768230?from=vacancy_search_list&query=python,hh.ru
+38,Python / JavaScript разработчик веб-приложений (Fullstack),80 000 – 120 000 руб.,80000.0,120000.0,руб.,https://hh.ru/vacancy/77351026?from=vacancy_search_list&query=python,hh.ru
+39,Artificial Intelligence / Machine Learning Engineer,З/П не указана,,,,https://hh.ru/vacancy/77351701?from=vacancy_search_list&query=python,hh.ru
+40,Python-разработчик в R&D отдел,100 000 – 150 000 руб.,100000.0,150000.0,руб.,https://hh.ru/vacancy/49299311?from=vacancy_search_list&query=python,hh.ru
+41,Разработчик Python,30 000 – 80 000 руб.,30000.0,80000.0,руб.,https://hh.ru/vacancy/47668037?from=vacancy_search_list&query=python,hh.ru
+42,Backend Developer Python,З/П не указана,,,,https://hh.ru/vacancy/77365703?from=vacancy_search_list&query=python,hh.ru
+43,Python developer (Банк),до 300 000 руб.,,300000.0,руб.,https://hh.ru/vacancy/77262071?from=vacancy_search_list&query=python,hh.ru
+44,Программист-стажер GO / Go Intern (Telecom),З/П не указана,,,,https://hh.ru/vacancy/77339852?from=vacancy_search_list&query=python,hh.ru
+45,Python developer,З/П не указана,,,,https://hh.ru/vacancy/77339906?from=vacancy_search_list&query=python,hh.ru
+46,Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76498335?from=vacancy_search_list&query=python,hh.ru
+47,Программист Python+Django,от 25 000 руб.,25000.0,,руб.,https://hh.ru/vacancy/77232367?from=vacancy_search_list&query=python,hh.ru
+48,Программист Python,З/П не указана,,,,https://hh.ru/vacancy/77218092?from=vacancy_search_list&query=python,hh.ru
+49,Преподаватель Python,от 125 000 руб.,125000.0,,руб.,https://hh.ru/vacancy/77083925?from=vacancy_search_list&query=python,hh.ru
+50,Python developer,З/П не указана,,,,https://hh.ru/vacancy/75574711?from=vacancy_search_list&query=python,hh.ru
+51,Data/Product Analyst,до 330 000 руб.,,330000.0,руб.,https://hh.ru/vacancy/77206133?from=vacancy_search_list&query=python,hh.ru
+52,Разработчик бэкенда на Python в Вертикали,З/П не указана,,,,https://hh.ru/vacancy/76831393?from=vacancy_search_list&query=python,hh.ru
+53,Ментор на курс Python,З/П не указана,,,,https://hh.ru/vacancy/77259417?from=vacancy_search_list&query=python,hh.ru
+54,Разработчик Python,от 120 000 руб.,120000.0,,руб.,https://hh.ru/vacancy/76076341?from=vacancy_search_list&query=python,hh.ru
+55,Junior/Middle Backend-разработчик на Ruby,110 000 – 150 000 руб.,110000.0,150000.0,руб.,https://hh.ru/vacancy/76964796?from=vacancy_search_list&query=python,hh.ru
+56,Разработчик Python,от 150 000 руб.,150000.0,,руб.,https://hh.ru/vacancy/76433537?from=vacancy_search_list&query=python,hh.ru
+57,Аналитик данных / Data Analyst,80 000 – 120 000 руб.,80000.0,120000.0,руб.,https://hh.ru/vacancy/77024983?from=vacancy_search_list&query=python,hh.ru
+58,AI / ML Specialist,З/П не указана,,,,https://hh.ru/vacancy/77185485?from=vacancy_search_list&query=python,hh.ru
+59,Python Data Engineer (junior),З/П не указана,,,,https://hh.ru/vacancy/76141435?from=vacancy_search_list&query=python,hh.ru
+60,Python developer (remote),от 1 000 USD,1000.0,,USD,https://hh.ru/vacancy/77245811?from=vacancy_search_list&query=python,hh.ru
+61,Разработчик Python,от 200 000 руб.,200000.0,,руб.,https://hh.ru/vacancy/77089579?from=vacancy_search_list&query=python,hh.ru
+62,Python Web Developer,З/П не указана,,,,https://hh.ru/vacancy/75771778?from=vacancy_search_list&query=python,hh.ru
+63,Artificial Intelligence / Machine Learning Engineer,З/П не указана,,,,https://hh.ru/vacancy/77351702?from=vacancy_search_list&query=python,hh.ru
+64,С++ Developer (Python),от 150 000 руб.,150000.0,,руб.,https://hh.ru/vacancy/73030684?from=vacancy_search_list&query=python,hh.ru
+65,Backend программист (Python),от 120 000 руб.,120000.0,,руб.,https://hh.ru/vacancy/77147428?from=vacancy_search_list&query=python,hh.ru
+66,Разработчик Python и SQL,от 60 000 руб.,60000.0,,руб.,https://hh.ru/vacancy/76425036?from=vacancy_search_list&query=python,hh.ru
+67,Python-разработчик систем сбора,100 000 – 150 000 руб.,100000.0,150000.0,руб.,https://hh.ru/vacancy/72687495?from=vacancy_search_list&query=python,hh.ru
+68,Middle Python-разработчик,140 000 – 250 000 руб.,140000.0,250000.0,руб.,https://hh.ru/vacancy/75679088?from=vacancy_search_list&query=python,hh.ru
+69,Стажер-аналитик,З/П не указана,,,,https://hh.ru/vacancy/77306960?from=vacancy_search_list&query=python,hh.ru
+70,Middle Python/Go developer,от 150 000 руб.,150000.0,,руб.,https://hh.ru/vacancy/77230563?from=vacancy_search_list&query=python,hh.ru
+71,Программист-разработчик,З/П не указана,,,,https://hh.ru/vacancy/76762046?from=vacancy_search_list&query=python,hh.ru
+72,Full-stack Python/Django-разработчик,до 200 000 руб.,,200000.0,руб.,https://hh.ru/vacancy/76549392?from=vacancy_search_list&query=python,hh.ru
+73,Аналитик данных (Data Analist),З/П не указана,,,,https://hh.ru/vacancy/76584671?from=vacancy_search_list&query=python,hh.ru
+74,Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76843829?from=vacancy_search_list&query=python,hh.ru
+75,Middle Python developer,120 000 – 200 000 руб.,120000.0,200000.0,руб.,https://hh.ru/vacancy/76595028?from=vacancy_search_list&query=python,hh.ru
+76,Data Scientist CVM,З/П не указана,,,,https://hh.ru/vacancy/77366229?from=vacancy_search_list&query=python,hh.ru
+77,Senior Python Developer (Беспилотные автомобили),З/П не указана,,,,https://hh.ru/vacancy/76985818?from=vacancy_search_list&query=python,hh.ru
+78,Преподаватель Python,от 125 000 руб.,125000.0,,руб.,https://hh.ru/vacancy/77083926?from=vacancy_search_list&query=python,hh.ru
+79,Backend-разработчик Python/Django,З/П не указана,,,,https://hh.ru/vacancy/75850366?from=vacancy_search_list&query=python,hh.ru
+80,Python / Go Разработчик,З/П не указана,,,,https://hh.ru/vacancy/74089202?from=vacancy_search_list&query=python,hh.ru
+81,Программист Python,З/П не указана,,,,https://hh.ru/vacancy/75704098?from=vacancy_search_list&query=python,hh.ru
+82,DevOps инженер,100 000 – 120 000 руб.,100000.0,120000.0,руб.,https://hh.ru/vacancy/76587347?from=vacancy_search_list&query=python,hh.ru
+83,Lead Backend Developer (python),от 200 000 руб.,200000.0,,руб.,https://hh.ru/vacancy/76971118?from=vacancy_search_list&query=python,hh.ru
+84,Data analyst / Аналитик данных,от 90 000 руб.,90000.0,,руб.,https://hh.ru/vacancy/76690668?from=vacancy_search_list&query=python,hh.ru
+85,Senior Python developer (Django),до 450 000 руб.,,450000.0,руб.,https://hh.ru/vacancy/76821520?from=vacancy_search_list&query=python,hh.ru
+86,Инженер данных ClickHouse,120 000 – 200 000 руб.,120000.0,200000.0,руб.,https://hh.ru/vacancy/77225799?from=vacancy_search_list&query=python,hh.ru
+87,Senior Python developer (Django),до 450 000 руб.,,450000.0,руб.,https://hh.ru/vacancy/76821519?from=vacancy_search_list&query=python,hh.ru
+88,Разработчик Python,80 000 – 120 000 руб.,80000.0,120000.0,руб.,https://hh.ru/vacancy/77038104?from=vacancy_search_list&query=python,hh.ru
+89,Инженер-программист Python (автоматизация испытательных стендов),З/П не указана,,,,https://hh.ru/vacancy/76924233?from=vacancy_search_list&query=python,hh.ru
+90,Deep Learning инженер,З/П не указана,,,,https://hh.ru/vacancy/76752874?from=vacancy_search_list&query=python,hh.ru
+91,Python developer,150 000 – 250 000 руб.,150000.0,250000.0,руб.,https://hh.ru/vacancy/46229759?from=vacancy_search_list&query=python,hh.ru
+92,Middle / Middle+ Python (Django) developer,З/П не указана,,,,https://hh.ru/vacancy/76541749?from=vacancy_search_list&query=python,hh.ru
+93,Программист Python - FastAPI,от 180 000 руб.,180000.0,,руб.,https://hh.ru/vacancy/77096692?from=vacancy_search_list&query=python,hh.ru
+94,Программист Python,З/П не указана,,,,https://hh.ru/vacancy/77065085?from=vacancy_search_list&query=python,hh.ru
+95,Python developer,З/П не указана,,,,https://hh.ru/vacancy/76544211?from=vacancy_search_list&query=python,hh.ru
+96,Python developer (middle/senior) удаленно,З/П не указана,,,,https://hh.ru/vacancy/77321723?from=vacancy_search_list&query=python,hh.ru
+97,Data Scientist/python-разработчик,З/П не указана,,,,https://hh.ru/vacancy/77107666?from=vacancy_search_list&query=python,hh.ru
+98,Программист Python - FastAPI,от 180 000 руб.,180000.0,,руб.,https://hh.ru/vacancy/77096615?from=vacancy_search_list&query=python,hh.ru
+99,Python senior developer (разработчик),от 250 000 руб.,250000.0,,руб.,https://hh.ru/vacancy/76840139?from=vacancy_search_list&query=python,hh.ru
+100,Python-разработчик (Middle),до 240 000 руб.,,240000.0,руб.,https://hh.ru/vacancy/77276110?from=vacancy_search_list&query=python,hh.ru
+101,Middle / Middle+ Python Developer (backend),200 000 – 300 000 руб.,200000.0,300000.0,руб.,https://hh.ru/vacancy/77073241?from=vacancy_search_list&query=python,hh.ru
+102,Системный аналитик (аналитик-разработчик),130 000 – 230 000 руб.,130000.0,230000.0,руб.,https://hh.ru/vacancy/76732634?from=vacancy_search_list&query=python,hh.ru
+103,Middle Python Developer (Backend / Server side),140 000 – 220 000 руб.,140000.0,220000.0,руб.,https://hh.ru/vacancy/77148120?from=vacancy_search_list&query=python,hh.ru
+104,QA Engineer на мобильную RTS,З/П не указана,,,,https://hh.ru/vacancy/73576354?from=vacancy_search_list&query=python,hh.ru
+105,Эконометрист/Data scientist (Junior/Middle) в консалтинг,от 40 000 руб.,40000.0,,руб.,https://hh.ru/vacancy/75546364?from=vacancy_search_list&query=python,hh.ru
+106,Python Back-end Разработчик / Python Back-end Developer,З/П не указана,,,,https://hh.ru/vacancy/46823861?from=vacancy_search_list&query=python,hh.ru
+107,Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/77075044?from=vacancy_search_list&query=python,hh.ru
+108,BackEnd Developer (Python),З/П не указана,,,,https://hh.ru/vacancy/77264154?from=vacancy_search_list&query=python,hh.ru
+109,Преподаватель по программированию для детей и подростков,250 000 – 300 000 KZT,250000.0,300000.0,KZT,https://hh.ru/vacancy/77037685?from=vacancy_search_list&query=python,hh.ru
+110,Python программист (Наставник онлайн-курса по Python),до 80 000 руб.,,80000.0,руб.,https://hh.ru/vacancy/67864415?from=vacancy_search_list&query=python,hh.ru
+111,Младший аналитик,З/П не указана,,,,https://hh.ru/vacancy/76921964?from=vacancy_search_list&query=python,hh.ru
+112,Python разработчик,от 350 000 руб.,350000.0,,руб.,https://hh.ru/vacancy/76929580?from=vacancy_search_list&query=python,hh.ru
+113,Middle Python Developer (Machine Learning),З/П не указана,,,,https://hh.ru/vacancy/77342523?from=vacancy_search_list&query=python,hh.ru
+114,Разработчик Python+MS SQL+1C,З/П не указана,,,,https://hh.ru/vacancy/75878225?from=vacancy_search_list&query=python,hh.ru
+115,Разработчик Python (ALD),З/П не указана,,,,https://hh.ru/vacancy/70052938?from=vacancy_search_list&query=python,hh.ru
+116,Team Lead with back-end (Python) - remote,4 000 – 5 000 USD,4000.0,5000.0,USD,https://hh.ru/vacancy/77363153?from=vacancy_search_list&query=python,hh.ru
+117,Инженер-программист / Бэкенд-разработчик на Python,от 50 000 руб.,50000.0,,руб.,https://hh.ru/vacancy/70975727?from=vacancy_search_list&query=python,hh.ru
+118,Middle/senior python разработчик,от 200 000 руб.,200000.0,,руб.,https://hh.ru/vacancy/76712283?from=vacancy_search_list&query=python,hh.ru
+119,Data-analyst,З/П не указана,,,,https://hh.ru/vacancy/76417646?from=vacancy_search_list&query=python,hh.ru
+120,Data analyst / Аналитик данных,З/П не указана,,,,https://hh.ru/vacancy/73591237?from=vacancy_search_list&query=python,hh.ru
+121,Senior Python developer,от 230 000 руб.,230000.0,,руб.,https://hh.ru/vacancy/75859273?from=vacancy_search_list&query=python,hh.ru
+122,Инженер по автоматизации тестирования Python,З/П не указана,,,,https://hh.ru/vacancy/77332335?from=vacancy_search_list&query=python,hh.ru
+123,Data Analyst / Аналитик Bl,до 140 000 руб.,,140000.0,руб.,https://hh.ru/vacancy/76348422?from=vacancy_search_list&query=python,hh.ru
+124,Middle Python разработчик,120 000 – 180 000 руб.,120000.0,180000.0,руб.,https://hh.ru/vacancy/77019389?from=vacancy_search_list&query=python,hh.ru
+125,Strong Middle Python developer,З/П не указана,,,,https://hh.ru/vacancy/77218819?from=vacancy_search_list&query=python,hh.ru
+126,Python senior developer (разработчик),от 250 000 руб.,250000.0,,руб.,https://hh.ru/vacancy/76840138?from=vacancy_search_list&query=python,hh.ru
+127,Middle backend-разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/76140465?from=vacancy_search_list&query=python,hh.ru
+128,Game Analyst (игровой аналитик),З/П не указана,,,,https://hh.ru/vacancy/76254367?from=vacancy_search_list&query=python,hh.ru
+129,Ведущий разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/72399179?from=vacancy_search_list&query=python,hh.ru
+130,Программист Linux,100 000 – 500 000 руб.,100000.0,500000.0,руб.,https://hh.ru/vacancy/76592132?from=vacancy_search_list&query=python,hh.ru
+131,Python Backend Developer (middle),З/П не указана,,,,https://hh.ru/vacancy/76924747?from=vacancy_search_list&query=python,hh.ru
+132,Middle backend developer,от 500 000 KZT,500000.0,,KZT,https://hh.ru/vacancy/77367992?from=vacancy_search_list&query=python,hh.ru
+133,Менеджер проектов со знанием Python,30 000 – 50 000 руб.,30000.0,50000.0,руб.,https://hh.ru/vacancy/77148210?from=vacancy_search_list&query=python,hh.ru
+134,Senior Python Developer,5 000 – 6 000 USD,5000.0,6000.0,USD,https://hh.ru/vacancy/76650700?from=vacancy_search_list&query=python,hh.ru
+135,Главный разработчик Python,100 000 – 200 000 руб.,100000.0,200000.0,руб.,https://hh.ru/vacancy/70093763?from=vacancy_search_list&query=python,hh.ru
+136,Младший преподаватель Python (Физтехпарк),З/П не указана,,,,https://hh.ru/vacancy/75729936?from=vacancy_search_list&query=python,hh.ru
+137,Аналитик данных,З/П не указана,,,,https://hh.ru/vacancy/77219984?from=vacancy_search_list&query=python,hh.ru
+138,Программист Python php (Москва),80 000 – 100 000 руб.,80000.0,100000.0,руб.,https://hh.ru/vacancy/77163195?from=vacancy_search_list&query=python,hh.ru
+139,Программист qlikview,З/П не указана,,,,https://hh.ru/vacancy/77285800?from=vacancy_search_list&query=python,hh.ru
+140,Data scientist / Аналитик риск-моделей,120 000 – 300 000 руб.,120000.0,300000.0,руб.,https://hh.ru/vacancy/77181469?from=vacancy_search_list&query=python,hh.ru
+141,Python Developer,З/П не указана,,,,https://hh.ru/vacancy/77220983?from=vacancy_search_list&query=python,hh.ru
+142,"Инженер по применению (направление ""Искусственный интеллект"")",З/П не указана,,,,https://hh.ru/vacancy/76371806?from=vacancy_search_list&query=python,hh.ru
+143,Разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/51472686?from=vacancy_search_list&query=python,hh.ru
+144,Team Lead Python,от 6 500 USD,6500.0,,USD,https://hh.ru/vacancy/69431361?from=vacancy_search_list&query=python,hh.ru
+145,Middle Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76112746?from=vacancy_search_list&query=python,hh.ru
+146,Middle Backend Developer,100 000 – 130 000 руб.,100000.0,130000.0,руб.,https://hh.ru/vacancy/76716623?from=vacancy_search_list&query=python,hh.ru
+147,Python-разработчик,З/П не указана,,,,https://hh.ru/vacancy/77032460?from=vacancy_search_list&query=python,hh.ru
+148,Системный аналитик,от 180 000 руб.,180000.0,,руб.,https://hh.ru/vacancy/76825827?from=vacancy_search_list&query=python,hh.ru
+149,Программист Python,З/П не указана,,,,https://hh.ru/vacancy/67711604?from=vacancy_search_list&query=python,hh.ru
+150,Наставник курсов по Python разработке,40 000 – 80 000 руб.,40000.0,80000.0,руб.,https://hh.ru/vacancy/77349366?from=vacancy_search_list&query=python,hh.ru
+151,Продуктовый аналитик/Product Analyst,от 150 000 руб.,150000.0,,руб.,https://hh.ru/vacancy/77218483?from=vacancy_search_list&query=python,hh.ru
+152,Разработчик Python (middle),З/П не указана,,,,https://hh.ru/vacancy/76816845?from=vacancy_search_list&query=python,hh.ru
+153,Backend разработчик (Python),от 150 000 руб.,150000.0,,руб.,https://hh.ru/vacancy/76891919?from=vacancy_search_list&query=python,hh.ru
+154,Python Backend Developer (Senior/Remote),до 300 000 руб.,,300000.0,руб.,https://hh.ru/vacancy/77060239?from=vacancy_search_list&query=python,hh.ru
+155,Python-разработчик (команда SberWorks),З/П не указана,,,,https://hh.ru/vacancy/77133306?from=vacancy_search_list&query=python,hh.ru
+156,Разработчик интеграционных решений,З/П не указана,,,,https://hh.ru/vacancy/76110611?from=vacancy_search_list&query=python,hh.ru
+157,C++ Developer (MetaTrader),до 200 000 руб.,,200000.0,руб.,https://hh.ru/vacancy/77232587?from=vacancy_search_list&query=python,hh.ru
+158,Middle/Senior bakend разработчик (Python),З/П не указана,,,,https://hh.ru/vacancy/75977451?from=vacancy_search_list&query=python,hh.ru
+159,Python-разработчик,З/П не указана,,,,https://hh.ru/vacancy/77030437?from=vacancy_search_list&query=python,hh.ru
+160,Python-разработчик (Senior),от 240 000 руб.,240000.0,,руб.,https://hh.ru/vacancy/77331406?from=vacancy_search_list&query=python,hh.ru
+161,Fullstack Разработчик,от 50 000 руб.,50000.0,,руб.,https://hh.ru/vacancy/77266384?from=vacancy_search_list&query=python,hh.ru
+162,Главный python разработчик управления данными (ДПП),З/П не указана,,,,https://hh.ru/vacancy/76080775?from=vacancy_search_list&query=python,hh.ru
+163,Python-разработчик (middle),З/П не указана,,,,https://hh.ru/vacancy/77289629?from=vacancy_search_list&query=python,hh.ru
+164,Data-аналитик,З/П не указана,,,,https://hh.ru/vacancy/76933775?from=vacancy_search_list&query=python,hh.ru
+165,Python (опыт с Rust) разработчик (PT Sandbox),З/П не указана,,,,https://hh.ru/vacancy/76916725?from=vacancy_search_list&query=python,hh.ru
+166,Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/76780632?from=vacancy_search_list&query=python,hh.ru
+167,Python разработчик (проект Лаборатория измерительных систем),З/П не указана,,,,https://hh.ru/vacancy/77193986?from=vacancy_search_list&query=python,hh.ru
+168,Разработчик базы данных,З/П не указана,,,,https://hh.ru/vacancy/75522993?from=vacancy_search_list&query=python,hh.ru
+169,Программист-разработчик компьютерного зрения (python),З/П не указана,,,,https://hh.ru/vacancy/77002334?from=vacancy_search_list&query=python,hh.ru
+170,Python разработчик Junior,40 000 – 60 000 руб.,40000.0,60000.0,руб.,https://hh.ru/vacancy/76757250?from=vacancy_search_list&query=python,hh.ru
+171,Software Engineer in Test (Python),З/П не указана,,,,https://hh.ru/vacancy/74803836?from=vacancy_search_list&query=python,hh.ru
+172,Программист-разработчик,от 85 000 руб.,85000.0,,руб.,https://hh.ru/vacancy/77192679?from=vacancy_search_list&query=python,hh.ru
+173,Python Team Lead,З/П не указана,,,,https://hh.ru/vacancy/76707495?from=vacancy_search_list&query=python,hh.ru
+174,Middle OpenStack Python,З/П не указана,,,,https://hh.ru/vacancy/75726638?from=vacancy_search_list&query=python,hh.ru
+175,Программист,З/П не указана,,,,https://hh.ru/vacancy/76800949?from=vacancy_search_list&query=python,hh.ru
+176,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/76068416?from=vacancy_search_list&query=python,hh.ru
+177,Программист/разработчик Linux,от 200 000 руб.,200000.0,,руб.,https://hh.ru/vacancy/76676691?from=vacancy_search_list&query=python,hh.ru
+178,Стажер Sberseasons осень 2022 Data Science Новосибирск,З/П не указана,,,,https://hh.ru/vacancy/77053286?from=vacancy_search_list&query=python,hh.ru
+179,Junior Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/76902009?from=vacancy_search_list&query=python,hh.ru
+180,Программист Linux,100 000 – 500 000 руб.,100000.0,500000.0,руб.,https://hh.ru/vacancy/76592132?from=vacancy_search_list&query=python,hh.ru
+181,Web-программист (удаленно),от 40 000 руб.,40000.0,,руб.,https://hh.ru/vacancy/77388672?from=vacancy_search_list&query=python,hh.ru
+182,Sr Python разработчик (удаленно),до 300 000 руб.,,300000.0,руб.,https://hh.ru/vacancy/76958513?from=vacancy_search_list&query=python,hh.ru
+183,Middle Python developer,З/П не указана,,,,https://hh.ru/vacancy/77301956?from=vacancy_search_list&query=python,hh.ru
+184,Аналитик DWH (junior),З/П не указана,,,,https://hh.ru/vacancy/76202621?from=vacancy_search_list&query=python,hh.ru
+185,Тестировщик на Python,З/П не указана,,,,https://hh.ru/vacancy/76324043?from=vacancy_search_list&query=python,hh.ru
+186,Mid/Mid+ Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/76396688?from=vacancy_search_list&query=python,hh.ru
+187,Full Stack Python/JS разработчик,от 120 000 руб.,120000.0,,руб.,https://hh.ru/vacancy/76920852?from=vacancy_search_list&query=python,hh.ru
+188,Junior Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/76902009?from=vacancy_search_list&query=python,hh.ru
+189,Программист С++ Senior,400 000 – 700 000 руб.,400000.0,700000.0,руб.,https://hh.ru/vacancy/71147160?from=vacancy_search_list&query=python,hh.ru
+190,"Преподаватель курсов «Алгоритмики» в школах Ростова-на-Дону (Python, Scratch)",30 000 – 70 000 руб.,30000.0,70000.0,руб.,https://hh.ru/vacancy/76785247?from=vacancy_search_list&query=python,hh.ru
+191,Team Lead (Python),З/П не указана,,,,https://hh.ru/vacancy/76810596?from=vacancy_search_list&query=python,hh.ru
+192,Аналитик данных,З/П не указана,,,,https://hh.ru/vacancy/77219984?from=vacancy_search_list&query=python,hh.ru
+193,Tech Lead Python (Django),З/П не указана,,,,https://hh.ru/vacancy/75762841?from=vacancy_search_list&query=python,hh.ru
+194,Ночной системный инженер мониторинга,1 400 – 2 300 EUR,1400.0,2300.0,EUR,https://hh.ru/vacancy/76860808?from=vacancy_search_list&query=python,hh.ru
+195,Python backend-разработчик в команду Data Science,З/П не указана,,,,https://hh.ru/vacancy/77050356?from=vacancy_search_list&query=python,hh.ru
+196,Разработчик базы данных,З/П не указана,,,,https://hh.ru/vacancy/75522993?from=vacancy_search_list&query=python,hh.ru
+197,Python разработчик (проект Лаборатория измерительных систем),З/П не указана,,,,https://hh.ru/vacancy/77194042?from=vacancy_search_list&query=python,hh.ru
+198,TeamLead Python/C++,З/П не указана,,,,https://hh.ru/vacancy/76454509?from=vacancy_search_list&query=python,hh.ru
+199,Python-разработчик (Middle+ / Senior),З/П не указана,,,,https://hh.ru/vacancy/77322136?from=vacancy_search_list&query=python,hh.ru
+200,Руководитель группы разработки Python (Senior/TechLead/TeamLead),З/П не указана,,,,https://hh.ru/vacancy/76939956?from=vacancy_search_list&query=python,hh.ru
+201,Программист-разработчик,от 140 000 руб.,140000.0,,руб.,https://hh.ru/vacancy/76969159?from=vacancy_search_list&query=python,hh.ru
+202,Репетитор по программированию (Рython) для 5-11 классов,40 000 – 100 000 руб.,40000.0,100000.0,руб.,https://hh.ru/vacancy/75986190?from=vacancy_search_list&query=python,hh.ru
+203,Дата-инженер / Data Engineer,100 000 – 250 000 руб.,100000.0,250000.0,руб.,https://hh.ru/vacancy/72852491?from=vacancy_search_list&query=python,hh.ru
+204,Python Engineer,3 000 – 6 500 USD,3000.0,6500.0,USD,https://hh.ru/vacancy/76738937?from=vacancy_search_list&query=python,hh.ru
+205,Разработчик Python,до 300 000 руб.,,300000.0,руб.,https://hh.ru/vacancy/76868760?from=vacancy_search_list&query=python,hh.ru
+206,Middle Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76521668?from=vacancy_search_list&query=python,hh.ru
+207,Инженер по автоматизации (Go/Python/Java),З/П не указана,,,,https://hh.ru/vacancy/76070273?from=vacancy_search_list&query=python,hh.ru
+208,Middle+/Senior Backend Developer (Python),З/П не указана,,,,https://hh.ru/vacancy/76910287?from=vacancy_search_list&query=python,hh.ru
+209,Инженер-программист (Python),З/П не указана,,,,https://hh.ru/vacancy/69100495?from=vacancy_search_list&query=python,hh.ru
+210,Python-разработчик,З/П не указана,,,,https://hh.ru/vacancy/76971042?from=vacancy_search_list&query=python,hh.ru
+211,Senior Python developer,от 350 000 руб.,350000.0,,руб.,https://hh.ru/vacancy/76797183?from=vacancy_search_list&query=python,hh.ru
+212,Automation QA Engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/76580095?from=vacancy_search_list&query=python,hh.ru
+213,Программист Python,40 000 – 150 000 руб.,40000.0,150000.0,руб.,https://hh.ru/vacancy/76628647?from=vacancy_search_list&query=python,hh.ru
+214,"Ведущий инженер-программист (python, С/C++)",З/П не указана,,,,https://hh.ru/vacancy/76919357?from=vacancy_search_list&query=python,hh.ru
+215,Программист Python,З/П не указана,,,,https://hh.ru/vacancy/76919500?from=vacancy_search_list&query=python,hh.ru
+216,Junior Python Developer/стажер,20 000 – 40 000 руб.,20000.0,40000.0,руб.,https://hh.ru/vacancy/76606970?from=vacancy_search_list&query=python,hh.ru
+217,Python Web Scraping / Telegram Bot Developer,от 40 000 руб.,40000.0,,руб.,https://hh.ru/vacancy/76916576?from=vacancy_search_list&query=python,hh.ru
+218,Разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/76934078?from=vacancy_search_list&query=python,hh.ru
+219,Преподаватель языка программирования Python,20 000 – 50 000 руб.,20000.0,50000.0,руб.,https://hh.ru/vacancy/76495742?from=vacancy_search_list&query=python,hh.ru
+220,Портфельный аналитик / Portfolio manager (middle/senior),З/П не указана,,,,https://hh.ru/vacancy/72928034?from=vacancy_search_list&query=python,hh.ru
+221,Machine Learning Engineer,З/П не указана,,,,https://hh.ru/vacancy/77065922?from=vacancy_search_list&query=python,hh.ru
+222,Спикер на курс «Автотесты на Python. Продвинутая часть»,З/П не указана,,,,https://hh.ru/vacancy/77235046?from=vacancy_search_list&query=python,hh.ru
+223,Senior Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76810983?from=vacancy_search_list&query=python,hh.ru
+224,Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/77063351?from=vacancy_search_list&query=python,hh.ru
+225,ML-Researcher (NLP),170 000 – 210 000 руб.,170000.0,210000.0,руб.,https://hh.ru/vacancy/76471092?from=vacancy_search_list&query=python,hh.ru
+226,Разработчик на C++ в Карты,З/П не указана,,,,https://hh.ru/vacancy/76940772?from=vacancy_search_list&query=python,hh.ru
+227,Инженер по автоматизации тестирования,З/П не указана,,,,https://hh.ru/vacancy/76963515?from=vacancy_search_list&query=python,hh.ru
+228,"Python Разработчик (junior+,middle)",от 180 000 руб.,180000.0,,руб.,https://hh.ru/vacancy/76610707?from=vacancy_search_list&query=python,hh.ru
+229,Разработчик Python (Middle),100 000 – 150 000 руб.,100000.0,150000.0,руб.,https://hh.ru/vacancy/77056104?from=vacancy_search_list&query=python,hh.ru
+230,Python Engineer,З/П не указана,,,,https://hh.ru/vacancy/76971099?from=vacancy_search_list&query=python,hh.ru
+231,Data scientist (math modeling),4 000 – 10 000 USD,4000.0,10000.0,USD,https://hh.ru/vacancy/76674451?from=vacancy_search_list&query=python,hh.ru
+232,Бекэнд разработчик Python,от 120 000 руб.,120000.0,,руб.,https://hh.ru/vacancy/74408443?from=vacancy_search_list&query=python,hh.ru
+233,Senior Backend Python Developer Audiogram (MTS AI),до 350 000 руб.,,350000.0,руб.,https://hh.ru/vacancy/76813506?from=vacancy_search_list&query=python,hh.ru
+234,Разработчик Python (Middle),З/П не указана,,,,https://hh.ru/vacancy/73852842?from=vacancy_search_list&query=python,hh.ru
+235,Программист Python,З/П не указана,,,,https://hh.ru/vacancy/75955651?from=vacancy_search_list&query=python,hh.ru
+236,Инженер Linux,от 80 000 руб.,80000.0,,руб.,https://hh.ru/vacancy/77092815?from=vacancy_search_list&query=python,hh.ru
+237,Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76649089?from=vacancy_search_list&query=python,hh.ru
+238,Программист-разработчик,З/П не указана,,,,https://hh.ru/vacancy/77031217?from=vacancy_search_list&query=python,hh.ru
+239,Middle python developer,З/П не указана,,,,https://hh.ru/vacancy/71418146?from=vacancy_search_list&query=python,hh.ru
+240,Разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/75538314?from=vacancy_search_list&query=python,hh.ru
+241,Python Developer,З/П не указана,,,,https://hh.ru/vacancy/73371410?from=vacancy_search_list&query=python,hh.ru
+242,"Программист python, sql",до 138 000 руб.,,138000.0,руб.,https://hh.ru/vacancy/73405414?from=vacancy_search_list&query=python,hh.ru
+243,Аналитик данных / Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/77068297?from=vacancy_search_list&query=python,hh.ru
+244,Python-разработчик (Fullstack),З/П не указана,,,,https://hh.ru/vacancy/76861808?from=vacancy_search_list&query=python,hh.ru
+245,"Regular QA Auto (Python), удаленно",З/П не указана,,,,https://hh.ru/vacancy/77195612?from=vacancy_search_list&query=python,hh.ru
+246,Middle разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/75883895?from=vacancy_search_list&query=python,hh.ru
+247,Python-разработчик (команда Delivery&Release Management),З/П не указана,,,,https://hh.ru/vacancy/76731653?from=vacancy_search_list&query=python,hh.ru
+248,"Разработчик Python, ML платформа и Explainer",З/П не указана,,,,https://hh.ru/vacancy/77030689?from=vacancy_search_list&query=python,hh.ru
+249,Junior/Middle DevOps Engineer,от 100 000 руб.,100000.0,,руб.,https://hh.ru/vacancy/76716310?from=vacancy_search_list&query=python,hh.ru
+250,"Разработчик Python, ML платформа и Explainer",З/П не указана,,,,https://hh.ru/vacancy/77030691?from=vacancy_search_list&query=python,hh.ru
+251,"Программист Python (ML, Machine learning, PyTorch) офис",З/П не указана,,,,https://hh.ru/vacancy/77023596?from=vacancy_search_list&query=python,hh.ru
+252,Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/76777798?from=vacancy_search_list&query=python,hh.ru
+253,Тестировщик на Python,З/П не указана,,,,https://hh.ru/vacancy/76324042?from=vacancy_search_list&query=python,hh.ru
+254,Программист Python,110 000 – 130 000 руб.,110000.0,130000.0,руб.,https://hh.ru/vacancy/76468048?from=vacancy_search_list&query=python,hh.ru
+255,Senior Python разработчик,4 000 – 6 000 USD,4000.0,6000.0,USD,https://hh.ru/vacancy/76917703?from=vacancy_search_list&query=python,hh.ru
+256,Ведущий инженер по автоматизации тестирования,З/П не указана,,,,https://hh.ru/vacancy/76675190?from=vacancy_search_list&query=python,hh.ru
+257,Ментор (лектор) курса по Python-разработке,30 000 – 50 000 руб.,30000.0,50000.0,руб.,https://hh.ru/vacancy/76540298?from=vacancy_search_list&query=python,hh.ru
+258,"DevOps инженер, аккредитованная компания",З/П не указана,,,,https://hh.ru/vacancy/72659369?from=vacancy_search_list&query=python,hh.ru
+259,"Python developer (преподаватель курсов ""Программирование на Python"")",З/П не указана,,,,https://hh.ru/vacancy/77208460?from=vacancy_search_list&query=python,hh.ru
+260,Middle Python Developer,от 70 000 руб.,70000.0,,руб.,https://hh.ru/vacancy/75894357?from=vacancy_search_list&query=python,hh.ru
+261,Backend Python Developer,З/П не указана,,,,https://hh.ru/vacancy/75789802?from=vacancy_search_list&query=python,hh.ru
+262,Python разработчик/ Django,З/П не указана,,,,https://hh.ru/vacancy/75846166?from=vacancy_search_list&query=python,hh.ru
+263,Python разработчик (Middle / Senior),З/П не указана,,,,https://hh.ru/vacancy/77012817?from=vacancy_search_list&query=python,hh.ru
+264,Senior Python разработчик,225 000 – 280 000 руб.,225000.0,280000.0,руб.,https://hh.ru/vacancy/76287050?from=vacancy_search_list&query=python,hh.ru
+265,Разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/75537583?from=vacancy_search_list&query=python,hh.ru
+266,Инженер-программист Python (Воронеж),З/П не указана,,,,https://hh.ru/vacancy/68025080?from=vacancy_search_list&query=python,hh.ru
+267,Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/76777374?from=vacancy_search_list&query=python,hh.ru
+268,Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/76954395?from=vacancy_search_list&query=python,hh.ru
+269,Тестировщик на Python,З/П не указана,,,,https://hh.ru/vacancy/76324043?from=vacancy_search_list&query=python,hh.ru
+270,Аналитик / Разработчик Python,от 100 000 руб.,100000.0,,руб.,https://hh.ru/vacancy/76264607?from=vacancy_search_list&query=python,hh.ru
+271,Python Developer (Middle),от 180 000 руб.,180000.0,,руб.,https://hh.ru/vacancy/75723741?from=vacancy_search_list&query=python,hh.ru
+272,Python разработчик (Middle),З/П не указана,,,,https://hh.ru/vacancy/77093669?from=vacancy_search_list&query=python,hh.ru
+273,Бэкенд-разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/76509571?from=vacancy_search_list&query=python,hh.ru
+274,Middle Python developer,З/П не указана,,,,https://hh.ru/vacancy/76868720?from=vacancy_search_list&query=python,hh.ru
+275,Senior Machine Learning Engineer (Golang/Python/Scala) to Lisbon,от 380 000 руб.,380000.0,,руб.,https://hh.ru/vacancy/73475819?from=vacancy_search_list&query=python,hh.ru
+276,Программист Python,З/П не указана,,,,https://hh.ru/vacancy/73068373?from=vacancy_search_list&query=python,hh.ru
+277,Senior Python developer (MLOps),от 4 000 EUR,4000.0,,EUR,https://hh.ru/vacancy/77020530?from=vacancy_search_list&query=python,hh.ru
+278,Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/76954420?from=vacancy_search_list&query=python,hh.ru
+279,Sr Python разработчик (удаленно),до 300 000 руб.,,300000.0,руб.,https://hh.ru/vacancy/76958513?from=vacancy_search_list&query=python,hh.ru
+280,Python-разработчик (команда SberWorks),З/П не указана,,,,https://hh.ru/vacancy/76940066?from=vacancy_search_list&query=python,hh.ru
+281,Разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/45607335?from=vacancy_search_list&query=python,hh.ru
+282,Инженер-программист Python,З/П не указана,,,,https://hh.ru/vacancy/76827205?from=vacancy_search_list&query=python,hh.ru
+283,Ведущий разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/71497534?from=vacancy_search_list&query=python,hh.ru
+284,Python Developer,З/П не указана,,,,https://hh.ru/vacancy/70821270?from=vacancy_search_list&query=python,hh.ru
+285,Программист Python (мониторинг инфраструктуры),З/П не указана,,,,https://hh.ru/vacancy/76718980?from=vacancy_search_list&query=python,hh.ru
+286,Аналитик данных,З/П не указана,,,,https://hh.ru/vacancy/76931147?from=vacancy_search_list&query=python,hh.ru
+287,Разработчик Python (Департамент развития отношений с клиентами),З/П не указана,,,,https://hh.ru/vacancy/76376691?from=vacancy_search_list&query=python,hh.ru
+288,Программист,от 40 000 руб.,40000.0,,руб.,https://hh.ru/vacancy/76983316?from=vacancy_search_list&query=python,hh.ru
+289,Python developer (Machine Learning Engineer),З/П не указана,,,,https://hh.ru/vacancy/76654024?from=vacancy_search_list&query=python,hh.ru
+290,Программист Python - FastAPI,от 125 000 руб.,125000.0,,руб.,https://hh.ru/vacancy/76629721?from=vacancy_search_list&query=python,hh.ru
+291,Senior Python developer (MLOps),от 4 000 EUR,4000.0,,EUR,https://hh.ru/vacancy/77020380?from=vacancy_search_list&query=python,hh.ru
+292,Разработчик Python,120 000 – 300 000 руб.,120000.0,300000.0,руб.,https://hh.ru/vacancy/76718141?from=vacancy_search_list&query=python,hh.ru
+293,Python-developer,150 000 – 220 000 руб.,150000.0,220000.0,руб.,https://hh.ru/vacancy/72693020?from=vacancy_search_list&query=python,hh.ru
+294,Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/73806402?from=vacancy_search_list&query=python,hh.ru
+295,Middle/Senior Python Developer,З/П не указана,,,,https://hh.ru/vacancy/77055698?from=vacancy_search_list&query=python,hh.ru
+296,Python-разработчик (VK People Hub),З/П не указана,,,,https://hh.ru/vacancy/76855064?from=vacancy_search_list&query=python,hh.ru
+297,Аналитик Данных / Data Analyst,до 150 000 руб.,,150000.0,руб.,https://hh.ru/vacancy/76924176?from=vacancy_search_list&query=python,hh.ru
+298,Junior Backend разработчик,30 000 – 40 000 руб.,30000.0,40000.0,руб.,https://hh.ru/vacancy/76547328?from=vacancy_search_list&query=python,hh.ru
+299,Python-разработчик (Совкомбанк Технологии),З/П не указана,,,,https://hh.ru/vacancy/76917415?from=vacancy_search_list&query=python,hh.ru
+300,DevOps инженер,от 120 000 руб.,120000.0,,руб.,https://hh.ru/vacancy/76480112?from=vacancy_search_list&query=python,hh.ru
+301,Менеджер проектов со знанием Python,от 30 000 руб.,30000.0,,руб.,https://hh.ru/vacancy/76783914?from=vacancy_search_list&query=python,hh.ru
+302,Разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/76142815?from=vacancy_search_list&query=python,hh.ru
+303,ML разработчика (NLP),З/П не указана,,,,https://hh.ru/vacancy/76975999?from=vacancy_search_list&query=python,hh.ru
+304,Backend разработчик (Python),З/П не указана,,,,https://hh.ru/vacancy/75780287?from=vacancy_search_list&query=python,hh.ru
+305,Разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/75634659?from=vacancy_search_list&query=python,hh.ru
+306,Lead Python developer,до 400 000 руб.,,400000.0,руб.,https://hh.ru/vacancy/76856894?from=vacancy_search_list&query=python,hh.ru
+307,Разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/69756685?from=vacancy_search_list&query=python,hh.ru
+308,Senior Python developer (FastApi + Django),200 000 – 350 000 руб.,200000.0,350000.0,руб.,https://hh.ru/vacancy/77034438?from=vacancy_search_list&query=python,hh.ru
+309,Python Developer,З/П не указана,,,,https://hh.ru/vacancy/68851413?from=vacancy_search_list&query=python,hh.ru
+310,Ведущий Python-developer,243 000 – 415 000 руб.,243000.0,415000.0,руб.,https://hh.ru/vacancy/76371030?from=vacancy_search_list&query=python,hh.ru
+311,Python Developer (Senior),220 000 – 300 000 руб.,220000.0,300000.0,руб.,https://hh.ru/vacancy/71925039?from=vacancy_search_list&query=python,hh.ru
+312,Data Analyst / Аналитик данных,100 000 – 120 000 руб.,100000.0,120000.0,руб.,https://hh.ru/vacancy/72492020?from=vacancy_search_list&query=python,hh.ru
+313,Middle программист Python (платежные сервисы),З/П не указана,,,,https://hh.ru/vacancy/75552925?from=vacancy_search_list&query=python,hh.ru
+314,Python-разработчик,З/П не указана,,,,https://hh.ru/vacancy/75700571?from=vacancy_search_list&query=python,hh.ru
+315,Ведущий разработчик (Python+JavaScript),280 000 – 350 000 руб.,280000.0,350000.0,руб.,https://hh.ru/vacancy/75682198?from=vacancy_search_list&query=python,hh.ru
+316,Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/76428808?from=vacancy_search_list&query=python,hh.ru
+317,Full-stack Python Developer,З/П не указана,,,,https://hh.ru/vacancy/75999731?from=vacancy_search_list&query=python,hh.ru
+318,Python Backend Developer (Senior/Remote),до 300 000 руб.,,300000.0,руб.,https://hh.ru/vacancy/76870825?from=vacancy_search_list&query=python,hh.ru
+319,Middle Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/75845051?from=vacancy_search_list&query=python,hh.ru
+320,"Backend разработчик (Python, Rust)",З/П не указана,,,,https://hh.ru/vacancy/76385283?from=vacancy_search_list&query=python,hh.ru
+321,"Преподаватель компьютерных курсов для взрослых Python, С#",З/П не указана,,,,https://hh.ru/vacancy/77145957?from=vacancy_search_list&query=python,hh.ru
+322,Python-разработчик,до 250 000 руб.,,250000.0,руб.,https://hh.ru/vacancy/76469323?from=vacancy_search_list&query=python,hh.ru
+323,Ведущий разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/76932577?from=vacancy_search_list&query=python,hh.ru
+324,Разработчик в тестировании / SDET (Python),З/П не указана,,,,https://hh.ru/vacancy/76943590?from=vacancy_search_list&query=python,hh.ru
+325,ГИС-разработчик,от 40 000 руб.,40000.0,,руб.,https://hh.ru/vacancy/76801236?from=vacancy_search_list&query=python,hh.ru
+326,Middle Python developer,З/П не указана,,,,https://hh.ru/vacancy/76851385?from=vacancy_search_list&query=python,hh.ru
+327,Python developer,З/П не указана,,,,https://hh.ru/vacancy/76696915?from=vacancy_search_list&query=python,hh.ru
+328,Python Developer (группа автоматизации),З/П не указана,,,,https://hh.ru/vacancy/72416567?from=vacancy_search_list&query=python,hh.ru
+329,Python-developer,З/П не указана,,,,https://hh.ru/vacancy/73253176?from=vacancy_search_list&query=python,hh.ru
+330,"Инженер-программист, ГНСС/GPS",З/П не указана,,,,https://hh.ru/vacancy/76937415?from=vacancy_search_list&query=python,hh.ru
+331,Middle+ Python Developer,140 000 – 180 000 руб.,140000.0,180000.0,руб.,https://hh.ru/vacancy/75954558?from=vacancy_search_list&query=python,hh.ru
+332,Python Developer (Инженер-программист),З/П не указана,,,,https://hh.ru/vacancy/76581501?from=vacancy_search_list&query=python,hh.ru
+333,Middle Python developer,З/П не указана,,,,https://hh.ru/vacancy/76868723?from=vacancy_search_list&query=python,hh.ru
+334,Игровой аналитик (Game/Business analyst),1 400 – 2 000 USD,1400.0,2000.0,USD,https://hh.ru/vacancy/76733632?from=vacancy_search_list&query=python,hh.ru
+335,Python Backend разработчик,100 000 – 120 000 руб.,100000.0,120000.0,руб.,https://hh.ru/vacancy/76464829?from=vacancy_search_list&query=python,hh.ru
+336,Data Analyst / Аналитик данных,до 150 000 руб.,,150000.0,руб.,https://hh.ru/vacancy/76784959?from=vacancy_search_list&query=python,hh.ru
+337,Python developer,З/П не указана,,,,https://hh.ru/vacancy/75639100?from=vacancy_search_list&query=python,hh.ru
+338,NLP/PLP исследователь,З/П не указана,,,,https://hh.ru/vacancy/73724235?from=vacancy_search_list&query=python,hh.ru
+339,Data-инженер,З/П не указана,,,,https://hh.ru/vacancy/72358064?from=vacancy_search_list&query=python,hh.ru
+340,Python\golang developer,З/П не указана,,,,https://hh.ru/vacancy/76662817?from=vacancy_search_list&query=python,hh.ru
+341,Python Team Lead,З/П не указана,,,,https://hh.ru/vacancy/77011351?from=vacancy_search_list&query=python,hh.ru
+342,Middle Python-разработчик,З/П не указана,,,,https://hh.ru/vacancy/76146275?from=vacancy_search_list&query=python,hh.ru
+343,Python developer,З/П не указана,,,,https://hh.ru/vacancy/66934335?from=vacancy_search_list&query=python,hh.ru
+344,Python-разработчик в Цифровые поверхности Салют (Сценарная разработка),З/П не указана,,,,https://hh.ru/vacancy/75888105?from=vacancy_search_list&query=python,hh.ru
+345,"Python разработчик (Django, Flask)",З/П не указана,,,,https://hh.ru/vacancy/74091251?from=vacancy_search_list&query=python,hh.ru
+346,Python разработчик (Северсталь Диджитал),З/П не указана,,,,https://hh.ru/vacancy/76641904?from=vacancy_search_list&query=python,hh.ru
+347,Senior Python разработчик (Django),от 280 000 руб.,280000.0,,руб.,https://hh.ru/vacancy/69529590?from=vacancy_search_list&query=python,hh.ru
+348,Python Team Lead,З/П не указана,,,,https://hh.ru/vacancy/76710564?from=vacancy_search_list&query=python,hh.ru
+349,Senior Python-разработчик (удаленно),от 180 000 руб.,180000.0,,руб.,https://hh.ru/vacancy/76598029?from=vacancy_search_list&query=python,hh.ru
+350,Программист Linux С/Python,З/П не указана,,,,https://hh.ru/vacancy/76807924?from=vacancy_search_list&query=python,hh.ru
+351,Преподаватель по курсу Python - разработчик,З/П не указана,,,,https://hh.ru/vacancy/76042868?from=vacancy_search_list&query=python,hh.ru
+352,Python Backend Developer (Team Lead/Remote),до 350 000 руб.,,350000.0,руб.,https://hh.ru/vacancy/75882092?from=vacancy_search_list&query=python,hh.ru
+353,"Data scientist (junior/middle), команда разработки портфельных моделей",З/П не указана,,,,https://hh.ru/vacancy/73577736?from=vacancy_search_list&query=python,hh.ru
+354,Python Teamlead,от 250 000 руб.,250000.0,,руб.,https://hh.ru/vacancy/76449912?from=vacancy_search_list&query=python,hh.ru
+355,Python-разработчик в команду Облачных баз данных,З/П не указана,,,,https://hh.ru/vacancy/72417835?from=vacancy_search_list&query=python,hh.ru
+356,Middle программист Python (платежные сервисы),З/П не указана,,,,https://hh.ru/vacancy/75568251?from=vacancy_search_list&query=python,hh.ru
+357,Стажер DevOps,З/П не указана,,,,https://hh.ru/vacancy/76721143?from=vacancy_search_list&query=python,hh.ru
+358,Python разработчик (Северсталь Диджитал),З/П не указана,,,,https://hh.ru/vacancy/76641910?from=vacancy_search_list&query=python,hh.ru
+359,Python разработчик Middle+ / Senior,100 000 – 220 000 руб.,100000.0,220000.0,руб.,https://hh.ru/vacancy/76613065?from=vacancy_search_list&query=python,hh.ru
+360,Data Scientist,от 500 000 KZT,500000.0,,KZT,https://hh.ru/vacancy/76374667?from=vacancy_search_list&query=python,hh.ru
+361,Python backend Middle/Senior developer,З/П не указана,,,,https://hh.ru/vacancy/69278697?from=vacancy_search_list&query=python,hh.ru
+362,Fullstack QA Engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/76870915?from=vacancy_search_list&query=python,hh.ru
+363,Ментор программных решений с открытым исходным кодом (ИТМО),до 30 000 руб.,,30000.0,руб.,https://hh.ru/vacancy/75633680?from=vacancy_search_list&query=python,hh.ru
+364,Разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/76428799?from=vacancy_search_list&query=python,hh.ru
+365,Python developer/QA (middle),З/П не указана,,,,https://hh.ru/vacancy/75749676?from=vacancy_search_list&query=python,hh.ru
+366,Python developer,100 000 – 250 000 руб.,100000.0,250000.0,руб.,https://hh.ru/vacancy/76362477?from=vacancy_search_list&query=python,hh.ru
+367,Python (Django) developer,З/П не указана,,,,https://hh.ru/vacancy/76667136?from=vacancy_search_list&query=python,hh.ru
+368,Middle Python-разработчик,З/П не указана,,,,https://hh.ru/vacancy/76484939?from=vacancy_search_list&query=python,hh.ru
+369,Backend-Developer Python (middle),З/П не указана,,,,https://hh.ru/vacancy/73244938?from=vacancy_search_list&query=python,hh.ru
+370,Автор курса «Мидл python-разработчик»,З/П не указана,,,,https://hh.ru/vacancy/73337384?from=vacancy_search_list&query=python,hh.ru
+371,Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76467591?from=vacancy_search_list&query=python,hh.ru
+372,Разработчик в тестировании/SDET (Python),З/П не указана,,,,https://hh.ru/vacancy/76748575?from=vacancy_search_list&query=python,hh.ru
+373,Senior Python developer в департамент Интеграции (MTS AI),до 270 000 руб.,,270000.0,руб.,https://hh.ru/vacancy/75847726?from=vacancy_search_list&query=python,hh.ru
+374,Python разработчик (Middle/Senior),З/П не указана,,,,https://hh.ru/vacancy/75627492?from=vacancy_search_list&query=python,hh.ru
+375,Автор работ по программированию Python,до 90 000 руб.,,90000.0,руб.,https://hh.ru/vacancy/76611771?from=vacancy_search_list&query=python,hh.ru
+376,Python developer,100 000 – 250 000 руб.,100000.0,250000.0,руб.,https://hh.ru/vacancy/76362476?from=vacancy_search_list&query=python,hh.ru
+377,Тренер-наставник по Web/Python/Scratch (удалённо),З/П не указана,,,,https://hh.ru/vacancy/76013682?from=vacancy_search_list&query=python,hh.ru
+378,Machine Learning/Data Science Specialist,З/П не указана,,,,https://hh.ru/vacancy/76464800?from=vacancy_search_list&query=python,hh.ru
+379,Преподаватель онлайн-курсов Python / Scratch / Геймдизайн для детей (групповые занятия),З/П не указана,,,,https://hh.ru/vacancy/75800266?from=vacancy_search_list&query=python,hh.ru
+380,"Автор / Преподаватель курса ""Python-разработчик"" (Онлайн)",З/П не указана,,,,https://hh.ru/vacancy/76585619?from=vacancy_search_list&query=python,hh.ru
+381,Преподаватель по Python в Центр непрерывного образования ФКН,З/П не указана,,,,https://hh.ru/vacancy/75919531?from=vacancy_search_list&query=python,hh.ru
+382,Senior Python developer (MLOps),от 3 500 EUR,3500.0,,EUR,https://hh.ru/vacancy/72709055?from=vacancy_search_list&query=python,hh.ru
+383,Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76483834?from=vacancy_search_list&query=python,hh.ru
+384,Инженер-программист,от 80 000 руб.,80000.0,,руб.,https://hh.ru/vacancy/76599941?from=vacancy_search_list&query=python,hh.ru
+385,Программист python/javascript / 1С,З/П не указана,,,,https://hh.ru/vacancy/76360159?from=vacancy_search_list&query=python,hh.ru
+386,Автор курсов по python-разработке в Практикум,З/П не указана,,,,https://hh.ru/vacancy/73337881?from=vacancy_search_list&query=python,hh.ru
+387,Senior Python Devleoper (Mobile team),от 230 000 руб.,230000.0,,руб.,https://hh.ru/vacancy/76408034?from=vacancy_search_list&query=python,hh.ru
+388,Senior Python Developer (удаленно),от 200 000 руб.,200000.0,,руб.,https://hh.ru/vacancy/76411099?from=vacancy_search_list&query=python,hh.ru
+389,QA Engineer (Python + pytest),З/П не указана,,,,https://hh.ru/vacancy/75697574?from=vacancy_search_list&query=python,hh.ru
+390,Преподаватель по курсу Python - разработчик (со знанием узбекского языка),З/П не указана,,,,https://hh.ru/vacancy/71324827?from=vacancy_search_list&query=python,hh.ru
+391,Middle Python Developer,З/П не указана,,,,https://hh.ru/vacancy/72169249?from=vacancy_search_list&query=python,hh.ru
+392,Ведущий разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/75936654?from=vacancy_search_list&query=python,hh.ru
+393,Python-разработчик в инфраструктурную группу,З/П не указана,,,,https://hh.ru/vacancy/76417694?from=vacancy_search_list&query=python,hh.ru
+394,Преподаватель по программированию - Scratch,до 50 000 руб.,,50000.0,руб.,https://hh.ru/vacancy/76667913?from=vacancy_search_list&query=python,hh.ru
+395,Ведущий разработчик Python,З/П не указана,,,,https://hh.ru/vacancy/75575225?from=vacancy_search_list&query=python,hh.ru
+396,"Преподаватель курсов ""Программирование на языке Python""",З/П не указана,,,,https://hh.ru/vacancy/76464130?from=vacancy_search_list&query=python,hh.ru
+397,Ведущий разработчик Python (Middle),З/П не указана,,,,https://hh.ru/vacancy/73138733?from=vacancy_search_list&query=python,hh.ru
+398,Python developer (Middle/Middle+),З/П не указана,,,,https://hh.ru/vacancy/76448740?from=vacancy_search_list&query=python,hh.ru
+399,Full Stack QA (Python),З/П не указана,,,,https://hh.ru/vacancy/76538362?from=vacancy_search_list&query=python,hh.ru
+400,Преподаватель по программированию,6 000 000 – 10 000 000 сум,6000000.0,10000000.0,сум,https://hh.ru/vacancy/77049355?from=vacancy_search_list&query=python,hh.ru
+401,Разработчик ГИС (GIS),З/П не указана,,,,https://hh.ru/vacancy/76506007?from=vacancy_search_list&query=python,hh.ru
+402,Python Team Lead,З/П не указана,,,,https://hh.ru/vacancy/76976147?from=vacancy_search_list&query=python,hh.ru
+403,Программист,З/П не указана,,,,https://hh.ru/vacancy/76726789?from=vacancy_search_list&query=python,hh.ru
+404,Data Scientist (Скормейкер),З/П не указана,,,,https://hh.ru/vacancy/76636130?from=vacancy_search_list&query=python,hh.ru
+405,Middle Python Developer,З/П не указана,,,,https://hh.ru/vacancy/71949724?from=vacancy_search_list&query=python,hh.ru
+406,"Преподаватель по программированию, город Конаев (Капчагай)",150 000 – 200 000 KZT,150000.0,200000.0,KZT,https://hh.ru/vacancy/76896184?from=vacancy_search_list&query=python,hh.ru
+407,Преподаватель Python разработки,120 000 – 360 000 KZT,120000.0,360000.0,KZT,https://hh.ru/vacancy/76829609?from=vacancy_search_list&query=python,hh.ru
+408,Преподаватель по программированию,200 000 – 450 000 KZT,200000.0,450000.0,KZT,https://hh.ru/vacancy/76723296?from=vacancy_search_list&query=python,hh.ru
+409,Преподаватель IT для детей (Удаленно),до 30 000 KGS,,30000.0,KGS,https://hh.ru/vacancy/74406722?from=vacancy_search_list&query=python,hh.ru
+410,Программист-разработчик (senior),2 000 – 2 500 USD,2000.0,2500.0,USD,https://hh.ru/vacancy/76593593?from=vacancy_search_list&query=python,hh.ru
+411,Инженер-программист,550 – 750 USD,550.0,750.0,USD,https://hh.ru/vacancy/76480273?from=vacancy_search_list&query=python,hh.ru
+412,Data Engineer / Разработчик по машинному обучению и ИИ,от 350 000 KZT,350000.0,,KZT,https://hh.ru/vacancy/76475054?from=vacancy_search_list&query=python,hh.ru
+413,Преподаватель по программированию,100 000 – 300 000 KZT,100000.0,300000.0,KZT,https://hh.ru/vacancy/76487767?from=vacancy_search_list&query=python,hh.ru
+414,Data Engineer,1 200 – 1 500 бел. руб.,1200.0,1500.0,руб.,https://hh.ru/vacancy/76446913?from=vacancy_search_list&query=python,hh.ru
+415,Dev-Ops инженер,З/П не указана,,,,https://hh.ru/vacancy/76357691?from=vacancy_search_list&query=python,hh.ru
+416,Преподаватель программирования,З/П не указана,,,,https://hh.ru/vacancy/76611263?from=vacancy_search_list&query=python,hh.ru
+417,Преподаватель по робототехнике и программированию,от 300 000 KZT,300000.0,,KZT,https://hh.ru/vacancy/75904017?from=vacancy_search_list&query=python,hh.ru
+418,Эксперт по ИТ безопасности в г. Алматы,З/П не указана,,,,https://hh.ru/vacancy/77365410?from=vacancy_search_list&query=python,hh.ru
+419,Инженер-программист группы разработки и эксплуатации ИТ сервисов,З/П не указана,,,,https://hh.ru/vacancy/77364368?from=vacancy_search_list&query=python,hh.ru
+420,Продуктовый аналитик в Геосервисы,З/П не указана,,,,https://hh.ru/vacancy/76204144?from=vacancy_search_list&query=python,hh.ru
+421,Инженер данных (PostgreSQL),З/П не указана,,,,https://hh.ru/vacancy/77316181?from=vacancy_search_list&query=python,hh.ru
+422,Программист-математик,100 000 – 180 000 руб.,100000.0,180000.0,руб.,https://hh.ru/vacancy/77205679?from=vacancy_search_list&query=python,hh.ru
+423,Data Engineer Middle+ (Удаленно),З/П не указана,,,,https://hh.ru/vacancy/77269370?from=vacancy_search_list&query=python,hh.ru
+424,Разработчик BI,З/П не указана,,,,https://hh.ru/vacancy/76766093?from=vacancy_search_list&query=python,hh.ru
+425,DevOps middle+ специалист,200 000 – 250 000 руб.,200000.0,250000.0,руб.,https://hh.ru/vacancy/76459197?from=vacancy_search_list&query=python,hh.ru
+426,Python developer (Middle),З/П не указана,,,,https://hh.ru/vacancy/76843358?from=vacancy_search_list&query=python,hh.ru
+427,Специалист сопровождения бизнес приложений / IT Engineer / IT Front Office Support Sp / DevOps,З/П не указана,,,,https://hh.ru/vacancy/76667597?from=vacancy_search_list&query=python,hh.ru
+428,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/76729345?from=vacancy_search_list&query=python,hh.ru
+429,RND Developer,З/П не указана,,,,https://hh.ru/vacancy/76334532?from=vacancy_search_list&query=python,hh.ru
+430,DevOps (FinTech) || Remote,200 000 – 250 000 руб.,200000.0,250000.0,руб.,https://hh.ru/vacancy/72881401?from=vacancy_search_list&query=python,hh.ru
+431,Data Scientist (middle/senior),до 400 000 руб.,,400000.0,руб.,https://hh.ru/vacancy/70163749?from=vacancy_search_list&query=python,hh.ru
+432,Руководитель группы разработки Python,З/П не указана,,,,https://hh.ru/vacancy/77193328?from=vacancy_search_list&query=python,hh.ru
+433,Middle DevOps специалист,до 250 000 руб.,,250000.0,руб.,https://hh.ru/vacancy/76444469?from=vacancy_search_list&query=python,hh.ru
+434,Ведущий разработчик ПО в области облачных технологий,от 250 000 руб.,250000.0,,руб.,https://hh.ru/vacancy/68317619?from=vacancy_search_list&query=python,hh.ru
+435,Full-stack Python/React Middle/Senior,2 000 – 5 000 USD,2000.0,5000.0,USD,https://hh.ru/vacancy/77375402?from=vacancy_search_list&query=python,hh.ru
+436,DevOps инженер,от 200 000 руб.,200000.0,,руб.,https://hh.ru/vacancy/76829349?from=vacancy_search_list&query=python,hh.ru
+437,Lead Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/75920088?from=vacancy_search_list&query=python,hh.ru
+438,Product Analyst,З/П не указана,,,,https://hh.ru/vacancy/76842110?from=vacancy_search_list&query=python,hh.ru
+439,Data Scientist (Predict),З/П не указана,,,,https://hh.ru/vacancy/73254140?from=vacancy_search_list&query=python,hh.ru
+440,Дата-аналитик (Middle),З/П не указана,,,,https://hh.ru/vacancy/72088298?from=vacancy_search_list&query=python,hh.ru
+441,Senior Data Engineer (DWH),З/П не указана,,,,https://hh.ru/vacancy/76954495?from=vacancy_search_list&query=python,hh.ru
+442,DevOps-инженер,З/П не указана,,,,https://hh.ru/vacancy/76979749?from=vacancy_search_list&query=python,hh.ru
+443,Data Engineer (Backend),З/П не указана,,,,https://hh.ru/vacancy/77120466?from=vacancy_search_list&query=python,hh.ru
+444,Ведущий разработчик бэкенда в команду диагностики,З/П не указана,,,,https://hh.ru/vacancy/76484671?from=vacancy_search_list&query=python,hh.ru
+445,Devops k8s,З/П не указана,,,,https://hh.ru/vacancy/76910798?from=vacancy_search_list&query=python,hh.ru
+446,Python-разработчик (команда SDN IaaS в VK Cloud),З/П не указана,,,,https://hh.ru/vacancy/76234749?from=vacancy_search_list&query=python,hh.ru
+447,Backend Python разработчик (middle/senior) (id19865),З/П не указана,,,,https://hh.ru/vacancy/76137900?from=vacancy_search_list&query=python,hh.ru
+448,Python разработчик Middle/Senior,З/П не указана,,,,https://hh.ru/vacancy/77214364?from=vacancy_search_list&query=python,hh.ru
+449,Middle+/Senior Python Developer,З/П не указана,,,,https://hh.ru/vacancy/67913302?from=vacancy_search_list&query=python,hh.ru
+450,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/76111917?from=vacancy_search_list&query=python,hh.ru
+451,DevOps инженер \ DevOps engineer,З/П не указана,,,,https://hh.ru/vacancy/76504395?from=vacancy_search_list&query=python,hh.ru
+452,Middle Backend Python Developer,З/П не указана,,,,https://hh.ru/vacancy/77331641?from=vacancy_search_list&query=python,hh.ru
+453,Python Middle Developer,З/П не указана,,,,https://hh.ru/vacancy/76141211?from=vacancy_search_list&query=python,hh.ru
+454,Инженер (devOps),З/П не указана,,,,https://hh.ru/vacancy/77068301?from=vacancy_search_list&query=python,hh.ru
+455,Senior Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/77206360?from=vacancy_search_list&query=python,hh.ru
+456,"Data scientist (проект ""Антиспам"")",З/П не указана,,,,https://hh.ru/vacancy/69774675?from=vacancy_search_list&query=python,hh.ru
+457,Data engineer,З/П не указана,,,,https://hh.ru/vacancy/76610643?from=vacancy_search_list&query=python,hh.ru
+458,DevOps инженер,З/П не указана,,,,https://hh.ru/vacancy/77262871?from=vacancy_search_list&query=python,hh.ru
+459,Backend Developer (В команду компьютерного зрения),З/П не указана,,,,https://hh.ru/vacancy/75846932?from=vacancy_search_list&query=python,hh.ru
+460,Python разработчик (Senior) (PT CERT),З/П не указана,,,,https://hh.ru/vacancy/76680384?from=vacancy_search_list&query=python,hh.ru
+461,Senior Python Developer,З/П не указана,,,,https://hh.ru/vacancy/73891488?from=vacancy_search_list&query=python,hh.ru
+462,Python Senior Developer,З/П не указана,,,,https://hh.ru/vacancy/76142024?from=vacancy_search_list&query=python,hh.ru
+463,DevOps инженер,З/П не указана,,,,https://hh.ru/vacancy/76452152?from=vacancy_search_list&query=python,hh.ru
+464,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/74291265?from=vacancy_search_list&query=python,hh.ru
+465,Python Middle Developer,З/П не указана,,,,https://hh.ru/vacancy/76141433?from=vacancy_search_list&query=python,hh.ru
+466,DevOps Engineer,З/П не указана,,,,https://hh.ru/vacancy/71971820?from=vacancy_search_list&query=python,hh.ru
+467,Python Team Lead,З/П не указана,,,,https://hh.ru/vacancy/77136977?from=vacancy_search_list&query=python,hh.ru
+468,Python Senior developer,З/П не указана,,,,https://hh.ru/vacancy/76267771?from=vacancy_search_list&query=python,hh.ru
+469,Python Middle Developer,З/П не указана,,,,https://hh.ru/vacancy/76141149?from=vacancy_search_list&query=python,hh.ru
+470,Разработчик SQL (Команда модуля управления доступом),З/П не указана,,,,https://hh.ru/vacancy/77111662?from=vacancy_search_list&query=python,hh.ru
+471,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/77239913?from=vacancy_search_list&query=python,hh.ru
+472,Senior Python developer,З/П не указана,,,,https://hh.ru/vacancy/67540644?from=vacancy_search_list&query=python,hh.ru
+473,Администратор баз данных PostgreSQL,З/П не указана,,,,https://hh.ru/vacancy/76870602?from=vacancy_search_list&query=python,hh.ru
+474,Data Engineer Lead / Дата инженер,от 300 000 руб.,300000.0,,руб.,https://hh.ru/vacancy/77279563?from=vacancy_search_list&query=python,hh.ru
+475,Senior Python developer (DDI),З/П не указана,,,,https://hh.ru/vacancy/76972714?from=vacancy_search_list&query=python,hh.ru
+476,QA Automation Python Engineer,З/П не указана,,,,https://hh.ru/vacancy/77348218?from=vacancy_search_list&query=python,hh.ru
+477,Senior Python разработчик (Standoff 365),З/П не указана,,,,https://hh.ru/vacancy/76047404?from=vacancy_search_list&query=python,hh.ru
+478,Senior Python разработчик (Standoff 365),З/П не указана,,,,https://hh.ru/vacancy/76047403?from=vacancy_search_list&query=python,hh.ru
+479,Machine Learning Engineer (рекомендательная система Пульс),З/П не указана,,,,https://hh.ru/vacancy/69572527?from=vacancy_search_list&query=python,hh.ru
+480,Senior Backend developer (Python),З/П не указана,,,,https://hh.ru/vacancy/77264713?from=vacancy_search_list&query=python,hh.ru
+481,Продуктовый аналитик (ВКонтакте для бизнеса),З/П не указана,,,,https://hh.ru/vacancy/77383704?from=vacancy_search_list&query=python,hh.ru
+482,ML разработчик,З/П не указана,,,,https://hh.ru/vacancy/76770330?from=vacancy_search_list&query=python,hh.ru
+483,SDET Content Filtering Researcher (Python),З/П не указана,,,,https://hh.ru/vacancy/77267240?from=vacancy_search_list&query=python,hh.ru
+484,Data Engineer / Python middle developer,З/П не указана,,,,https://hh.ru/vacancy/77226301?from=vacancy_search_list&query=python,hh.ru
+485,DevOps engineer,З/П не указана,,,,https://hh.ru/vacancy/77181712?from=vacancy_search_list&query=python,hh.ru
+486,Machine Learning Engineer,З/П не указана,,,,https://hh.ru/vacancy/71140682?from=vacancy_search_list&query=python,hh.ru
+487,Python Senior Full-stack Developer,З/П не указана,,,,https://hh.ru/vacancy/77321367?from=vacancy_search_list&query=python,hh.ru
+488,Руководитель отдела разработки (backend/python),З/П не указана,,,,https://hh.ru/vacancy/77237581?from=vacancy_search_list&query=python,hh.ru
+489,Data Engineer (Екб),З/П не указана,,,,https://hh.ru/vacancy/76327587?from=vacancy_search_list&query=python,hh.ru
+490,Python Senior Full-stack Developer,З/П не указана,,,,https://hh.ru/vacancy/77321366?from=vacancy_search_list&query=python,hh.ru
+491,Data аналитик,З/П не указана,,,,https://hh.ru/vacancy/77323688?from=vacancy_search_list&query=python,hh.ru
+492,Senior Python developer (GLaDOS),З/П не указана,,,,https://hh.ru/vacancy/74000542?from=vacancy_search_list&query=python,hh.ru
+493,DevOps инженер (Middle+),З/П не указана,,,,https://hh.ru/vacancy/76865387?from=vacancy_search_list&query=python,hh.ru
+494,Разработчик ETL (Hadoop/Python/SQL)senior,З/П не указана,,,,https://hh.ru/vacancy/77293527?from=vacancy_search_list&query=python,hh.ru
+495,Математик-программист,З/П не указана,,,,https://hh.ru/vacancy/76225619?from=vacancy_search_list&query=python,hh.ru
+496,Разработчик RPA,З/П не указана,,,,https://hh.ru/vacancy/72695308?from=vacancy_search_list&query=python,hh.ru
+497,"Backend Developer (Python, Cloud)",З/П не указана,,,,https://hh.ru/vacancy/68702720?from=vacancy_search_list&query=python,hh.ru
+498,Middle Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/77225871?from=vacancy_search_list&query=python,hh.ru
+499,Инженер нагрузочного тестирования,200 000 – 250 000 руб.,200000.0,250000.0,руб.,https://hh.ru/vacancy/76104014?from=vacancy_search_list&query=python,hh.ru
+500,Data Scientist (DMAG),З/П не указана,,,,https://hh.ru/vacancy/77316163?from=vacancy_search_list&query=python,hh.ru
+501,Python Tech Lead,З/П не указана,,,,https://hh.ru/vacancy/72008831?from=vacancy_search_list&query=python,hh.ru
+502,ML разработчика (NLP),З/П не указана,,,,https://hh.ru/vacancy/76975998?from=vacancy_search_list&query=python,hh.ru
+503,Senior Python разработчик (PT NAD),З/П не указана,,,,https://hh.ru/vacancy/76678934?from=vacancy_search_list&query=python,hh.ru
+504,Senior Python разработчик (PT NAD),З/П не указана,,,,https://hh.ru/vacancy/76678937?from=vacancy_search_list&query=python,hh.ru
+505,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/77080567?from=vacancy_search_list&query=python,hh.ru
+506,Senior QA automation (Python),З/П не указана,,,,https://hh.ru/vacancy/76977007?from=vacancy_search_list&query=python,hh.ru
+507,Middle/Senior Python Developer (Platform Virtualization),З/П не указана,,,,https://hh.ru/vacancy/71226025?from=vacancy_search_list&query=python,hh.ru
+508,Разработчик SQL (Команда модуля управления доступом),З/П не указана,,,,https://hh.ru/vacancy/77111660?from=vacancy_search_list&query=python,hh.ru
+509,Backend Team Lead (Python),З/П не указана,,,,https://hh.ru/vacancy/77216957?from=vacancy_search_list&query=python,hh.ru
+510,Full-stack разработчик (php/python),100 000 – 200 000 руб.,100000.0,200000.0,руб.,https://hh.ru/vacancy/77091248?from=vacancy_search_list&query=python,hh.ru
+511,QA Automation engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/71912517?from=vacancy_search_list&query=python,hh.ru
+512,Программист-исследователь (проект Поиск),З/П не указана,,,,https://hh.ru/vacancy/70348054?from=vacancy_search_list&query=python,hh.ru
+513,DevOps / Релиз-инженер,З/П не указана,,,,https://hh.ru/vacancy/76756919?from=vacancy_search_list&query=python,hh.ru
+514,QA automation engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/73581027?from=vacancy_search_list&query=python,hh.ru
+515,Senior Python Developer,З/П не указана,,,,https://hh.ru/vacancy/75946762?from=vacancy_search_list&query=python,hh.ru
+516,Tech Lead Python,З/П не указана,,,,https://hh.ru/vacancy/71091986?from=vacancy_search_list&query=python,hh.ru
+517,Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/77232985?from=vacancy_search_list&query=python,hh.ru
+518,ML-инженер (middle),З/П не указана,,,,https://hh.ru/vacancy/77255869?from=vacancy_search_list&query=python,hh.ru
+519,Senior Python/Go разработчик (PT Blackbox),З/П не указана,,,,https://hh.ru/vacancy/76925008?from=vacancy_search_list&query=python,hh.ru
+520,Разработчик Python (middle+|senior),З/П не указана,,,,https://hh.ru/vacancy/76889681?from=vacancy_search_list&query=python,hh.ru
+521,QA Automation/SDET (Python),З/П не указана,,,,https://hh.ru/vacancy/70406342?from=vacancy_search_list&query=python,hh.ru
+522,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/77296552?from=vacancy_search_list&query=python,hh.ru
+523,Data-Scientist / Дата-сайентист,З/П не указана,,,,https://hh.ru/vacancy/76913797?from=vacancy_search_list&query=python,hh.ru
+524,Аналитик,З/П не указана,,,,https://hh.ru/vacancy/76856836?from=vacancy_search_list&query=python,hh.ru
+525,Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/77320882?from=vacancy_search_list&query=python,hh.ru
+526,Senior Python Developer,З/П не указана,,,,https://hh.ru/vacancy/75955238?from=vacancy_search_list&query=python,hh.ru
+527,"Инженер по автоматизации тестирования (Python, ERP и учётные системы)",З/П не указана,,,,https://hh.ru/vacancy/74045157?from=vacancy_search_list&query=python,hh.ru
+528,Python Team Lead,З/П не указана,,,,https://hh.ru/vacancy/76998507?from=vacancy_search_list&query=python,hh.ru
+529,Старший Python + Go разработчик,З/П не указана,,,,https://hh.ru/vacancy/77037118?from=vacancy_search_list&query=python,hh.ru
+530,Data Engineer (Мy Tracker),З/П не указана,,,,https://hh.ru/vacancy/77303024?from=vacancy_search_list&query=python,hh.ru
+531,QA Automation engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/76010770?from=vacancy_search_list&query=python,hh.ru
+532,Python-разработчик (Автоматизация сетевых сервисов),З/П не указана,,,,https://hh.ru/vacancy/76901352?from=vacancy_search_list&query=python,hh.ru
+533,Tech Lead Python Developer,З/П не указана,,,,https://hh.ru/vacancy/75751776?from=vacancy_search_list&query=python,hh.ru
+534,Senior Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/68918046?from=vacancy_search_list&query=python,hh.ru
+535,Инженер машинного обучения (Machine Learning Engineer),З/П не указана,,,,https://hh.ru/vacancy/76977366?from=vacancy_search_list&query=python,hh.ru
+536,Аналитик данных/Data Scientist,от 150 000 руб.,150000.0,,руб.,https://hh.ru/vacancy/76955992?from=vacancy_search_list&query=python,hh.ru
+537,Senior Python BackEnd Developer,З/П не указана,,,,https://hh.ru/vacancy/70534476?from=vacancy_search_list&query=python,hh.ru
+538,Data-инженер,З/П не указана,,,,https://hh.ru/vacancy/76888795?from=vacancy_search_list&query=python,hh.ru
+539,Data-инженер,З/П не указана,,,,https://hh.ru/vacancy/76888766?from=vacancy_search_list&query=python,hh.ru
+540,Senior Python Developer (в аккредитованную ИТ компанию),З/П не указана,,,,https://hh.ru/vacancy/42615019?from=vacancy_search_list&query=python,hh.ru
+541,"Middle/Senior Software Engineer (Python, Billing)",З/П не указана,,,,https://hh.ru/vacancy/76946468?from=vacancy_search_list&query=python,hh.ru
+542,Team lead data scientist,З/П не указана,,,,https://hh.ru/vacancy/75711019?from=vacancy_search_list&query=python,hh.ru
+543,Data Scientist middle/senior,З/П не указана,,,,https://hh.ru/vacancy/77201329?from=vacancy_search_list&query=python,hh.ru
+544,Team Lead Python разработчик (Биометрия),З/П не указана,,,,https://hh.ru/vacancy/75525321?from=vacancy_search_list&query=python,hh.ru
+545,Artificial Intelligence Programmer/Программист искусственного интеллекта,З/П не указана,,,,https://hh.ru/vacancy/75830546?from=vacancy_search_list&query=python,hh.ru
+546,Backend разработчик python (middle+/senior),З/П не указана,,,,https://hh.ru/vacancy/76934452?from=vacancy_search_list&query=python,hh.ru
+547,Разработчик витрин данных,З/П не указана,,,,https://hh.ru/vacancy/76699133?from=vacancy_search_list&query=python,hh.ru
+548,Математик-программист,З/П не указана,,,,https://hh.ru/vacancy/76590726?from=vacancy_search_list&query=python,hh.ru
+549,Python Developer middle,З/П не указана,,,,https://hh.ru/vacancy/76784106?from=vacancy_search_list&query=python,hh.ru
+550,Middle / Senior Python developer,З/П не указана,,,,https://hh.ru/vacancy/77114532?from=vacancy_search_list&query=python,hh.ru
+551,Middle/Senior Python-разработчик в Цифровые поверхности Салют (SberDevices),З/П не указана,,,,https://hh.ru/vacancy/76048443?from=vacancy_search_list&query=python,hh.ru
+552,Senior Python Developer,З/П не указана,,,,https://hh.ru/vacancy/75853179?from=vacancy_search_list&query=python,hh.ru
+553,Deep Learning Engineer (NLP),З/П не указана,,,,https://hh.ru/vacancy/71574774?from=vacancy_search_list&query=python,hh.ru
+554,Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/76165484?from=vacancy_search_list&query=python,hh.ru
+555,Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/75749099?from=vacancy_search_list&query=python,hh.ru
+556,Senior/Lead Python-разработчик,З/П не указана,,,,https://hh.ru/vacancy/76921494?from=vacancy_search_list&query=python,hh.ru
+557,Machine learning & СV researcher,З/П не указана,,,,https://hh.ru/vacancy/77079698?from=vacancy_search_list&query=python,hh.ru
+558,Data Scientist (NLP),З/П не указана,,,,https://hh.ru/vacancy/77065770?from=vacancy_search_list&query=python,hh.ru
+559,Senior Python developer,З/П не указана,,,,https://hh.ru/vacancy/66147239?from=vacancy_search_list&query=python,hh.ru
+560,Middle | Senior Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/73328848?from=vacancy_search_list&query=python,hh.ru
+561,QA Automation engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/76007662?from=vacancy_search_list&query=python,hh.ru
+562,Старший инженер-программист (Python)/Senior Python developer,З/П не указана,,,,https://hh.ru/vacancy/76604020?from=vacancy_search_list&query=python,hh.ru
+563,Machine Learning Senior engineer,от 350 000 руб.,350000.0,,руб.,https://hh.ru/vacancy/76405398?from=vacancy_search_list&query=python,hh.ru
+564,QA Automation Engineer Python/Автотестировщик,З/П не указана,,,,https://hh.ru/vacancy/68820590?from=vacancy_search_list&query=python,hh.ru
+565,Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/77146729?from=vacancy_search_list&query=python,hh.ru
+566,"Data Scientist, Поисковые подсказки",З/П не указана,,,,https://hh.ru/vacancy/77132650?from=vacancy_search_list&query=python,hh.ru
+567,Продуктовый аналитик,230 000 – 270 000 руб.,230000.0,270000.0,руб.,https://hh.ru/vacancy/76659794?from=vacancy_search_list&query=python,hh.ru
+568,Data scientist,З/П не указана,,,,https://hh.ru/vacancy/76934468?from=vacancy_search_list&query=python,hh.ru
+569,QA automation engineer (Python),до 250 000 руб.,,250000.0,руб.,https://hh.ru/vacancy/76904582?from=vacancy_search_list&query=python,hh.ru
+570,Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/77146730?from=vacancy_search_list&query=python,hh.ru
+571,QA Auto Python Engineer,З/П не указана,,,,https://hh.ru/vacancy/76778824?from=vacancy_search_list&query=python,hh.ru
+572,"Data scientist / Machine learning engineer (команда рекомендаций и машинного обучения, ВКонтакте)",З/П не указана,,,,https://hh.ru/vacancy/76930898?from=vacancy_search_list&query=python,hh.ru
+573,Аналитик данных (SQL),З/П не указана,,,,https://hh.ru/vacancy/67752294?from=vacancy_search_list&query=python,hh.ru
+574,ML Engineer,140 000 – 180 000 руб.,140000.0,180000.0,руб.,https://hh.ru/vacancy/76581205?from=vacancy_search_list&query=python,hh.ru
+575,Data engineer\analyst (развитие источников данных Big Data),З/П не указана,,,,https://hh.ru/vacancy/68958646?from=vacancy_search_list&query=python,hh.ru
+576,Data Engineer,200 000 – 250 000 руб.,200000.0,250000.0,руб.,https://hh.ru/vacancy/77004409?from=vacancy_search_list&query=python,hh.ru
+577,Data engineer,З/П не указана,,,,https://hh.ru/vacancy/75524554?from=vacancy_search_list&query=python,hh.ru
+578,Middle/Senior Python-разработчик в команду Добычи данных,З/П не указана,,,,https://hh.ru/vacancy/68116289?from=vacancy_search_list&query=python,hh.ru
+579,Backend developer Python (middle/senior),З/П не указана,,,,https://hh.ru/vacancy/71862882?from=vacancy_search_list&query=python,hh.ru
+580,Data Science Engineer (Computer Vision),З/П не указана,,,,https://hh.ru/vacancy/75918378?from=vacancy_search_list&query=python,hh.ru
+581,"Backend Developer (Python, Cloud)",З/П не указана,,,,https://hh.ru/vacancy/76490094?from=vacancy_search_list&query=python,hh.ru
+582,Data scientist (NLP),З/П не указана,,,,https://hh.ru/vacancy/76971323?from=vacancy_search_list&query=python,hh.ru
+583,Middle/Senior Python-разработчик в команду Добычи данных,З/П не указана,,,,https://hh.ru/vacancy/66066365?from=vacancy_search_list&query=python,hh.ru
+584,Senior Python developer,З/П не указана,,,,https://hh.ru/vacancy/75644400?from=vacancy_search_list&query=python,hh.ru
+585,Аналитик,З/П не указана,,,,https://hh.ru/vacancy/76699461?from=vacancy_search_list&query=python,hh.ru
+586,Data Engineer (GoLang Developer),от 4 000 EUR,4000.0,,EUR,https://hh.ru/vacancy/77020277?from=vacancy_search_list&query=python,hh.ru
+587,Data Engineer (GoLang Developer),от 4 000 EUR,4000.0,,EUR,https://hh.ru/vacancy/77019966?from=vacancy_search_list&query=python,hh.ru
+588,Senior Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76849150?from=vacancy_search_list&query=python,hh.ru
+589,Machine Learning Engineer,З/П не указана,,,,https://hh.ru/vacancy/76776268?from=vacancy_search_list&query=python,hh.ru
+590,Python Team Lead / Руководитель backend разработки,З/П не указана,,,,https://hh.ru/vacancy/54492842?from=vacancy_search_list&query=python,hh.ru
+591,Senior Python developer,З/П не указана,,,,https://hh.ru/vacancy/67774693?from=vacancy_search_list&query=python,hh.ru
+592,"Middle Python/C++ developer (Simulation, Autonomous Driving)",З/П не указана,,,,https://hh.ru/vacancy/76595844?from=vacancy_search_list&query=python,hh.ru
+593,Data Engineer (DWH),от 200 000 руб.,200000.0,,руб.,https://hh.ru/vacancy/70098868?from=vacancy_search_list&query=python,hh.ru
+594,Data scientist,З/П не указана,,,,https://hh.ru/vacancy/77094397?from=vacancy_search_list&query=python,hh.ru
+595,"Инженер-программист, алгоритмист",З/П не указана,,,,https://hh.ru/vacancy/69188887?from=vacancy_search_list&query=python,hh.ru
+596,"Data Scientist, Ранжирование поиска",З/П не указана,,,,https://hh.ru/vacancy/67411146?from=vacancy_search_list&query=python,hh.ru
+597,Middle Data / ML Engineer (Персонализация),З/П не указана,,,,https://hh.ru/vacancy/45498560?from=vacancy_search_list&query=python,hh.ru
+598,Ведущий разработчик Python (Middle/Senior),З/П не указана,,,,https://hh.ru/vacancy/76742077?from=vacancy_search_list&query=python,hh.ru
+599,Python Developer Middle/Senior,З/П не указана,,,,https://hh.ru/vacancy/68701573?from=vacancy_search_list&query=python,hh.ru
+600,Tech Lead Python Developer (remote),З/П не указана,,,,https://hh.ru/vacancy/72279956?from=vacancy_search_list&query=python,hh.ru
+601,Аналитик данных / Data Insight Analytic,от 220 000 руб.,220000.0,,руб.,https://hh.ru/vacancy/76754279?from=vacancy_search_list&query=python,hh.ru
+602,Senior Software Development Engineer Python (Kaspersky Anti Targeted Attack),З/П не указана,,,,https://hh.ru/vacancy/77079990?from=vacancy_search_list&query=python,hh.ru
+603,Data Science Engineer (Computer Vision),З/П не указана,,,,https://hh.ru/vacancy/75918381?from=vacancy_search_list&query=python,hh.ru
+604,Senior Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/76408933?from=vacancy_search_list&query=python,hh.ru
+605,ML Engineer (middle),З/П не указана,,,,https://hh.ru/vacancy/76391390?from=vacancy_search_list&query=python,hh.ru
+606,"Software Development Engineer in Test (SDET) [Python, Linux]",З/П не указана,,,,https://hh.ru/vacancy/76488545?from=vacancy_search_list&query=python,hh.ru
+607,Разработчик на Go и Python в команду платформы платёжного шлюза,З/П не указана,,,,https://hh.ru/vacancy/76852201?from=vacancy_search_list&query=python,hh.ru
+608,Data-analyst (Кипр),З/П не указана,,,,https://hh.ru/vacancy/72748736?from=vacancy_search_list&query=python,hh.ru
+609,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/69471555?from=vacancy_search_list&query=python,hh.ru
+610,Аналитик-исследователь (Data Scientist),100 000 – 200 000 руб.,100000.0,200000.0,руб.,https://hh.ru/vacancy/76287794?from=vacancy_search_list&query=python,hh.ru
+611,Python Senior Developer (Flask),З/П не указана,,,,https://hh.ru/vacancy/76520946?from=vacancy_search_list&query=python,hh.ru
+612,Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/74047078?from=vacancy_search_list&query=python,hh.ru
+613,Data scientist (Персонализация),З/П не указана,,,,https://hh.ru/vacancy/54829296?from=vacancy_search_list&query=python,hh.ru
+614,Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/76966602?from=vacancy_search_list&query=python,hh.ru
+615,Data-инженер,З/П не указана,,,,https://hh.ru/vacancy/69471604?from=vacancy_search_list&query=python,hh.ru
+616,QA Automation engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/76010769?from=vacancy_search_list&query=python,hh.ru
+617,DevOps инженер,З/П не указана,,,,https://hh.ru/vacancy/76768258?from=vacancy_search_list&query=python,hh.ru
+618,Backend-разработчика BI,З/П не указана,,,,https://hh.ru/vacancy/76696653?from=vacancy_search_list&query=python,hh.ru
+619,Data Science Engineer (Computer Vision),З/П не указана,,,,https://hh.ru/vacancy/75918380?from=vacancy_search_list&query=python,hh.ru
+620,Senior Data Scientist/ML Engineer SberDevices,З/П не указана,,,,https://hh.ru/vacancy/67924416?from=vacancy_search_list&query=python,hh.ru
+621,Data analyst (middle/senior),З/П не указана,,,,https://hh.ru/vacancy/76969784?from=vacancy_search_list&query=python,hh.ru
+622,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/72120422?from=vacancy_search_list&query=python,hh.ru
+623,Senior Python Developer (Cashbox),З/П не указана,,,,https://hh.ru/vacancy/76560756?from=vacancy_search_list&query=python,hh.ru
+624,"Ведущий аудитор (Oracle,MS SQL,Hadoop, Python)",от 109 000 руб.,109000.0,,руб.,https://hh.ru/vacancy/76564416?from=vacancy_search_list&query=python,hh.ru
+625,Data scientist,З/П не указана,,,,https://hh.ru/vacancy/76602551?from=vacancy_search_list&query=python,hh.ru
+626,Data scientist \ Аналитик данных,З/П не указана,,,,https://hh.ru/vacancy/76826677?from=vacancy_search_list&query=python,hh.ru
+627,Unreal Engine Tooling/C++/Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76467638?from=vacancy_search_list&query=python,hh.ru
+628,Middle Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/76768895?from=vacancy_search_list&query=python,hh.ru
+629,Инженер по автоматизации тестирования/Test automation engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/74339558?from=vacancy_search_list&query=python,hh.ru
+630,Data Engineer (GoLang Developer),от 4 000 EUR,4000.0,,EUR,https://hh.ru/vacancy/73344564?from=vacancy_search_list&query=python,hh.ru
+631,Python Middle developer департамент Интеграции (MTS AI),З/П не указана,,,,https://hh.ru/vacancy/75847797?from=vacancy_search_list&query=python,hh.ru
+632,CV Engineer (SberDevices),З/П не указана,,,,https://hh.ru/vacancy/73080486?from=vacancy_search_list&query=python,hh.ru
+633,Senior Python developer (ARMA),З/П не указана,,,,https://hh.ru/vacancy/75916375?from=vacancy_search_list&query=python,hh.ru
+634,ML engineer,З/П не указана,,,,https://hh.ru/vacancy/73030104?from=vacancy_search_list&query=python,hh.ru
+635,Программист CV на С++,до 170 000 руб.,,170000.0,руб.,https://hh.ru/vacancy/76597029?from=vacancy_search_list&query=python,hh.ru
+636,"Software Development Engineer in Test (SDET) [Python, Linux]",З/П не указана,,,,https://hh.ru/vacancy/76488544?from=vacancy_search_list&query=python,hh.ru
+637,Senior Golang/Python Developer,З/П не указана,,,,https://hh.ru/vacancy/76115632?from=vacancy_search_list&query=python,hh.ru
+638,Senior Python-разработчик,З/П не указана,,,,https://hh.ru/vacancy/76420469?from=vacancy_search_list&query=python,hh.ru
+639,DevOps инженер,до 200 000 руб.,,200000.0,руб.,https://hh.ru/vacancy/75942369?from=vacancy_search_list&query=python,hh.ru
+640,ML инженер,З/П не указана,,,,https://hh.ru/vacancy/74088632?from=vacancy_search_list&query=python,hh.ru
+641,Senior test automation engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/75727351?from=vacancy_search_list&query=python,hh.ru
+642,Middle Data Scientist / ML Engineer (Time series),З/П не указана,,,,https://hh.ru/vacancy/76628486?from=vacancy_search_list&query=python,hh.ru
+643,"Senior ML Engineer (""Поиск"")",З/П не указана,,,,https://hh.ru/vacancy/75789492?from=vacancy_search_list&query=python,hh.ru
+644,Python Middle Developer (Flask),З/П не указана,,,,https://hh.ru/vacancy/76520906?from=vacancy_search_list&query=python,hh.ru
+645,Аналитик-разработчик SQL,З/П не указана,,,,https://hh.ru/vacancy/76436243?from=vacancy_search_list&query=python,hh.ru
+646,SDET/QA automation engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/74105628?from=vacancy_search_list&query=python,hh.ru
+647,Аналитик данных / продукта (RecSys),З/П не указана,,,,https://hh.ru/vacancy/71221332?from=vacancy_search_list&query=python,hh.ru
+648,Middle+/Senior Python Developer Центр HR TECH (Проект Цифровой Ассистент),З/П не указана,,,,https://hh.ru/vacancy/76450681?from=vacancy_search_list&query=python,hh.ru
+649,Data инженер,З/П не указана,,,,https://hh.ru/vacancy/76133437?from=vacancy_search_list&query=python,hh.ru
+650,Product Analyst,З/П не указана,,,,https://hh.ru/vacancy/76679101?from=vacancy_search_list&query=python,hh.ru
+651,Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/76461371?from=vacancy_search_list&query=python,hh.ru
+652,Senior backend developer (Python+Go),З/П не указана,,,,https://hh.ru/vacancy/76090621?from=vacancy_search_list&query=python,hh.ru
+653,Lead QA (Python),З/П не указана,,,,https://hh.ru/vacancy/75665602?from=vacancy_search_list&query=python,hh.ru
+654,Системный разработчик отдела разработки клиентской части (VDI),З/П не указана,,,,https://hh.ru/vacancy/74416875?from=vacancy_search_list&query=python,hh.ru
+655,Data-analyst (Кипр),З/П не указана,,,,https://hh.ru/vacancy/73710871?from=vacancy_search_list&query=python,hh.ru
+656,QA Automation Engineer (Python),З/П не указана,,,,https://hh.ru/vacancy/76541305?from=vacancy_search_list&query=python,hh.ru
+657,Middle Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/76672110?from=vacancy_search_list&query=python,hh.ru
+658,Database Engineer,150 000 – 165 000 руб.,150000.0,165000.0,руб.,https://hh.ru/vacancy/76447662?from=vacancy_search_list&query=python,hh.ru
+659,"Старший инженер по автоматизации тестирования, Python, API, Ozon Bank",З/П не указана,,,,https://hh.ru/vacancy/76666032?from=vacancy_search_list&query=python,hh.ru
+660,Senior Data Scientist (WAF),З/П не указана,,,,https://hh.ru/vacancy/74252167?from=vacancy_search_list&query=python,hh.ru
+661,Data engineer,З/П не указана,,,,https://hh.ru/vacancy/67996146?from=vacancy_search_list&query=python,hh.ru
+662,Data Engineer (VK Cloud),З/П не указана,,,,https://hh.ru/vacancy/76521166?from=vacancy_search_list&query=python,hh.ru
+663,Data Scientist (Senior),З/П не указана,,,,https://hh.ru/vacancy/76406726?from=vacancy_search_list&query=python,hh.ru
+664,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/76393969?from=vacancy_search_list&query=python,hh.ru
+665,Senior Data Scientist (WAF),З/П не указана,,,,https://hh.ru/vacancy/74252169?from=vacancy_search_list&query=python,hh.ru
+666,Data Scientist (Senior),З/П не указана,,,,https://hh.ru/vacancy/72821352?from=vacancy_search_list&query=python,hh.ru
+667,Middle Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/76379602?from=vacancy_search_list&query=python,hh.ru
+668,Python разработчик junior,30 000 – 60 000 руб.,30000.0,60000.0,руб.,https://hh.ru/vacancy/76645865?from=vacancy_search_list&query=python,hh.ru
+669,Junior Python Backend Developer,до 60 000 руб.,,60000.0,руб.,https://hh.ru/vacancy/77236116?from=vacancy_search_list&query=python,hh.ru
+670,Python-разработчик (Junior),40 000 – 60 000 руб.,40000.0,60000.0,руб.,https://hh.ru/vacancy/76729452?from=vacancy_search_list&query=python,hh.ru
+671,"Стажер-разработчик Python (компьютерное зрение), удалённо",от 15 000 руб.,15000.0,,руб.,https://hh.ru/vacancy/77172833?from=vacancy_search_list&query=python,hh.ru
+672,Программист Python,от 45 000 руб.,45000.0,,руб.,https://hh.ru/vacancy/76608111?from=vacancy_search_list&query=python,hh.ru
+673,Стажер-разработчик бэкенда (Python),З/П не указана,,,,https://hh.ru/vacancy/76349062?from=vacancy_search_list&query=python,hh.ru
+674,Python developer,40 000 – 120 000 руб.,40000.0,120000.0,руб.,https://hh.ru/vacancy/76447635?from=vacancy_search_list&query=python,hh.ru
+675,Разработчик Python,от 100 000 руб.,100000.0,,руб.,https://hh.ru/vacancy/77234310?from=vacancy_search_list&query=python,hh.ru
+676,Разработчик Python,от 130 000 руб.,130000.0,,руб.,https://hh.ru/vacancy/77114699?from=vacancy_search_list&query=python,hh.ru
+677,Python Middle Developer,100 000 – 150 000 руб.,100000.0,150000.0,руб.,https://hh.ru/vacancy/77271017?from=vacancy_search_list&query=python,hh.ru
+678,Python разработчик,80 000 – 120 000 руб.,80000.0,120000.0,руб.,https://hh.ru/vacancy/77025219?from=vacancy_search_list&query=python,hh.ru
+679,Machine Learning Engineer (Junior),до 80 000 руб.,,80000.0,руб.,https://hh.ru/vacancy/76494422?from=vacancy_search_list&query=python,hh.ru
+680,Junior Python разработчик,от 60 000 руб.,60000.0,,руб.,https://hh.ru/vacancy/76886763?from=vacancy_search_list&query=python,hh.ru
+681,Стажер-разработчик SQL (BI/OLAP),З/П не указана,,,,https://hh.ru/vacancy/77033228?from=vacancy_search_list&query=python,hh.ru
+682,Junior Python Developer,З/П не указана,,,,https://hh.ru/vacancy/77125307?from=vacancy_search_list&query=python,hh.ru
+683,Стажер-разработчик OLAP,З/П не указана,,,,https://hh.ru/vacancy/77032320?from=vacancy_search_list&query=python,hh.ru
+684,Data Science Trainee,З/П не указана,,,,https://hh.ru/vacancy/76943642?from=vacancy_search_list&query=python,hh.ru
+685,Data Analyst,З/П не указана,,,,https://hh.ru/vacancy/76491924?from=vacancy_search_list&query=python,hh.ru
+686,Junior Data scientist (RecSys),З/П не указана,,,,https://hh.ru/vacancy/76975464?from=vacancy_search_list&query=python,hh.ru
+687,Data Analyst (middle/senior),2 500 – 3 500 USD,2500.0,3500.0,USD,https://hh.ru/vacancy/76866211?from=vacancy_search_list&query=python,hh.ru
+688,Junior Fullstack программист-разработчик,З/П не указана,,,,https://hh.ru/vacancy/76383406?from=vacancy_search_list&query=python,hh.ru
+689,Python-разработчик (команда WorkSpace),З/П не указана,,,,https://hh.ru/vacancy/77091209?from=vacancy_search_list&query=python,hh.ru
+690,Middle js+python разработчик (удаленка),50 000 – 100 000 руб.,50000.0,100000.0,руб.,https://hh.ru/vacancy/77014837?from=vacancy_search_list&query=python,hh.ru
+691,Python разработчик на внутренний проект (удалённо),180 000 – 250 000 руб.,180000.0,250000.0,руб.,https://hh.ru/vacancy/77013948?from=vacancy_search_list&query=python,hh.ru
+692,Аналитик в команду внедрения ботов (со знанием Python),З/П не указана,,,,https://hh.ru/vacancy/76533535?from=vacancy_search_list&query=python,hh.ru
+693,Data engineer,З/П не указана,,,,https://hh.ru/vacancy/76492442?from=vacancy_search_list&query=python,hh.ru
+694,Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/77024939?from=vacancy_search_list&query=python,hh.ru
+695,Python Backend Developer (Django),от 50 000 руб.,50000.0,,руб.,https://hh.ru/vacancy/76785900?from=vacancy_search_list&query=python,hh.ru
+696,"Разработчик (junior) на Python / web программист в SaaS-сервис, удалённо",от 35 000 руб.,35000.0,,руб.,https://hh.ru/vacancy/76753345?from=vacancy_search_list&query=python,hh.ru
+697,Аналитик данных (Data Analyst),З/П не указана,,,,https://hh.ru/vacancy/76736175?from=vacancy_search_list&query=python,hh.ru
+698,Junior Python Developer (стажер),З/П не указана,,,,https://hh.ru/vacancy/76852457?from=vacancy_search_list&query=python,hh.ru
+699,Python разработчик (бэк + SQL),З/П не указана,,,,https://hh.ru/vacancy/76983698?from=vacancy_search_list&query=python,hh.ru
+700,Quantitative Analyst,5 000 – 8 000 EUR,5000.0,8000.0,EUR,https://hh.ru/vacancy/76506452?from=vacancy_search_list&query=python,hh.ru
+701,Специалист сопровождения (ИТ-портала),до 280 000 руб.,,280000.0,руб.,https://hh.ru/vacancy/77289965?from=vacancy_search_list&query=python,hh.ru
+702,Разработчик С++,З/П не указана,,,,https://hh.ru/vacancy/76345440?from=vacancy_search_list&query=python,hh.ru
+703,Тестировщик игр,З/П не указана,,,,https://hh.ru/vacancy/77219444?from=vacancy_search_list&query=python,hh.ru
+704,ML-engineer,З/П не указана,,,,https://hh.ru/vacancy/73197327?from=vacancy_search_list&query=python,hh.ru
+705,ML-Researcher (NLP),170 000 – 210 000 руб.,170000.0,210000.0,руб.,https://hh.ru/vacancy/76471092?from=vacancy_search_list&query=python,hh.ru
+706,Lead data scientist,300 000 – 350 000 руб.,300000.0,350000.0,руб.,https://hh.ru/vacancy/76815797?from=vacancy_search_list&query=python,hh.ru
+707,Тестировщик,З/П не указана,,,,https://hh.ru/vacancy/76453814?from=vacancy_search_list&query=python,hh.ru
+708,Системный администратор (Администратор Zabbix),60 000 – 100 000 руб.,60000.0,100000.0,руб.,https://hh.ru/vacancy/76813393?from=vacancy_search_list&query=python,hh.ru
+709,Marketing Analyst,З/П не указана,,,,https://hh.ru/vacancy/77235978?from=vacancy_search_list&query=python,hh.ru
+710,Python-разработчик в команду Разработки клиентских сервисов,З/П не указана,,,,https://hh.ru/vacancy/77229115?from=vacancy_search_list&query=python,hh.ru
+711,Python developer (remote),от 1 000 USD,1000.0,,USD,https://hh.ru/vacancy/77245811?from=vacancy_search_list&query=python,hh.ru
+712,Трейдер-аналитик,от 50 000 руб.,50000.0,,руб.,https://hh.ru/vacancy/77374726?from=vacancy_search_list&query=python,hh.ru
+713,Аналитик отдела валидации,З/П не указана,,,,https://hh.ru/vacancy/69534347?from=vacancy_search_list&query=python,hh.ru
+714,Cистемный администратор Linux,З/П не указана,,,,https://hh.ru/vacancy/76486040?from=vacancy_search_list&query=python,hh.ru
+715,Руководитель отдела анализа данных/CDS,З/П не указана,,,,https://hh.ru/vacancy/77023297?from=vacancy_search_list&query=python,hh.ru
+716,Senior Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/76287212?from=vacancy_search_list&query=python,hh.ru
+717,Менеджер по информационной безопасности,от 30 000 руб.,30000.0,,руб.,https://hh.ru/vacancy/76396662?from=vacancy_search_list&query=python,hh.ru
+718,DevOps-инженер,З/П не указана,,,,https://hh.ru/vacancy/77354361?from=vacancy_search_list&query=python,hh.ru
+719,Аналитик в проектный офис,З/П не указана,,,,https://hh.ru/vacancy/76828184?from=vacancy_search_list&query=python,hh.ru
+720,DevOps/Site Reliability Engineer (SRE),З/П не указана,,,,https://hh.ru/vacancy/77287290?from=vacancy_search_list&query=python,hh.ru
+721,DevOps инженер (middle+),З/П не указана,,,,https://hh.ru/vacancy/76864047?from=vacancy_search_list&query=python,hh.ru
+722,Инженер Linux / DevOps,от 150 000 руб.,150000.0,,руб.,https://hh.ru/vacancy/77327728?from=vacancy_search_list&query=python,hh.ru
+723,Аналитик качества данных,З/П не указана,,,,https://hh.ru/vacancy/77197111?from=vacancy_search_list&query=python,hh.ru
+724,DevOps инженер,З/П не указана,,,,https://hh.ru/vacancy/76379420?from=vacancy_search_list&query=python,hh.ru
+725,Системный администратор / DevOps Engineer Junior,от 35 000 руб.,35000.0,,руб.,https://hh.ru/vacancy/69389773?from=vacancy_search_list&query=python,hh.ru
+726,Аналитик данных,З/П не указана,,,,https://hh.ru/vacancy/76967270?from=vacancy_search_list&query=python,hh.ru
+727,Front-end Software Engineer,З/П не указана,,,,https://hh.ru/vacancy/77281643?from=vacancy_search_list&query=python,hh.ru
+728,Педагог по программированию для детей 6-13 лет,80 000 – 120 000 руб.,80000.0,120000.0,руб.,https://hh.ru/vacancy/76470200?from=vacancy_search_list&query=python,hh.ru
+729,Ведущий системный администратор Linux,270 000 – 330 000 руб.,270000.0,330000.0,руб.,https://hh.ru/vacancy/77183176?from=vacancy_search_list&query=python,hh.ru
+730,Аналитик данных,З/П не указана,,,,https://hh.ru/vacancy/76651470?from=vacancy_search_list&query=python,hh.ru
+731,DevSecOps,З/П не указана,,,,https://hh.ru/vacancy/76406255?from=vacancy_search_list&query=python,hh.ru
+732,C++ Senior Software Programmer,от 6 300 EUR,6300.0,,EUR,https://hh.ru/vacancy/76684492?from=vacancy_search_list&query=python,hh.ru
+733,Game Product Analyst,З/П не указана,,,,https://hh.ru/vacancy/76653183?from=vacancy_search_list&query=python,hh.ru
+734,Automation QA Specialist,З/П не указана,,,,https://hh.ru/vacancy/52346968?from=vacancy_search_list&query=python,hh.ru
+735,Middle DevOps Engineer,103 500 – 200 000 руб.,103500.0,200000.0,руб.,https://hh.ru/vacancy/76477786?from=vacancy_search_list&query=python,hh.ru
+736,Программист Perl,от 150 000 руб.,150000.0,,руб.,https://hh.ru/vacancy/67617122?from=vacancy_search_list&query=python,hh.ru
+737,Программист API/API Developer,З/П не указана,,,,https://hh.ru/vacancy/77280332?from=vacancy_search_list&query=python,hh.ru
+738,Rust Developer,от 2 000 EUR,2000.0,,EUR,https://hh.ru/vacancy/77199590?from=vacancy_search_list&query=python,hh.ru
+739,Сетевой инженер-программист,от 160 000 руб.,160000.0,,руб.,https://hh.ru/vacancy/77279011?from=vacancy_search_list&query=python,hh.ru
+740,QA automation engineer,от 120 000 руб.,120000.0,,руб.,https://hh.ru/vacancy/77215426?from=vacancy_search_list&query=python,hh.ru
+741,"Machine learning engineer (проект ""Группы"")",З/П не указана,,,,https://hh.ru/vacancy/68447647?from=vacancy_search_list&query=python,hh.ru
+742,"Senior Python Developer / Data Engineer в команду Data Catalog, платформа ML Space",З/П не указана,,,,https://hh.ru/vacancy/71902418?from=vacancy_search_list&query=python,hh.ru
+743,QA Automation Engineer,З/П не указана,,,,https://hh.ru/vacancy/74803721?from=vacancy_search_list&query=python,hh.ru
+744,Data Engineer в Практикум,З/П не указана,,,,https://hh.ru/vacancy/77037098?from=vacancy_search_list&query=python,hh.ru
+745,"Machine learning engineer (проект ""Группы"")",З/П не указана,,,,https://hh.ru/vacancy/68447646?from=vacancy_search_list&query=python,hh.ru
+746,Инженер по нагрузочному тестированию,З/П не указана,,,,https://hh.ru/vacancy/76558448?from=vacancy_search_list&query=python,hh.ru
+747,"Инженер-разработчик Data Science (проект ""Лента"")",З/П не указана,,,,https://hh.ru/vacancy/48788339?from=vacancy_search_list&query=python,hh.ru
+748,Senior Data Scientist,З/П не указана,,,,https://hh.ru/vacancy/76333170?from=vacancy_search_list&query=python,hh.ru
+749,Аналитик-разработчик,З/П не указана,,,,https://hh.ru/vacancy/76519651?from=vacancy_search_list&query=python,hh.ru
+750,Разработчик C (удаленная работа),до 350 000 руб.,,350000.0,руб.,https://hh.ru/vacancy/76397262?from=vacancy_search_list&query=python,hh.ru
+751,Data Engineer,З/П не указана,,,,https://hh.ru/vacancy/74923706?from=vacancy_search_list&query=python,hh.ru
+752,Системный администратор Linux,от 150 000 руб.,150000.0,,руб.,https://hh.ru/vacancy/76436539?from=vacancy_search_list&query=python,hh.ru
+753,Game analyst,З/П не указана,,,,https://hh.ru/vacancy/76637243?from=vacancy_search_list&query=python,hh.ru
+754,Linux инженер,З/П не указана,,,,https://hh.ru/vacancy/76381460?from=vacancy_search_list&query=python,hh.ru
+755,Аналитик данных,З/П не указана,,,,https://hh.ru/vacancy/73204336?from=vacancy_search_list&query=python,hh.ru
+756,Разработчик в команду робототехники Маркета,З/П не указана,,,,https://hh.ru/vacancy/70366583?from=vacancy_search_list&query=python,hh.ru
+757,Data Analyst в команду Боты.KnowledgeAssistant,З/П не указана,,,,https://hh.ru/vacancy/77358542?from=vacancy_search_list&query=python,hh.ru
+758,QA engineer,З/П не указана,,,,https://hh.ru/vacancy/77033072?from=vacancy_search_list&query=python,hh.ru
+759,Cистемный администратор Linux,З/П не указана,,,,https://hh.ru/vacancy/76486039?from=vacancy_search_list&query=python,hh.ru
+760,Системный администратор/SRE,200 000 – 260 000 руб.,200000.0,260000.0,руб.,https://hh.ru/vacancy/77321255?from=vacancy_search_list&query=python,hh.ru
+761,DeVops,З/П не указана,,,,https://hh.ru/vacancy/75607710?from=vacancy_search_list&query=python,hh.ru
+762,DWH разработчик / DWH инженер / Data Engineer,от 110 000 руб.,110000.0,,руб.,https://hh.ru/vacancy/76291841?from=vacancy_search_list&query=python,hh.ru
+763,Администратор по управлению уязвимостями ИБ,З/П не указана,,,,https://hh.ru/vacancy/74316773?from=vacancy_search_list&query=python,hh.ru
+764,Аналитик второй линии поддержки,от 65 000 руб.,65000.0,,руб.,https://hh.ru/vacancy/77022274?from=vacancy_search_list&query=python,hh.ru
+765,Руководитель Департамента аналитики в Практикум,З/П не указана,,,,https://hh.ru/vacancy/76591632?from=vacancy_search_list&query=python,hh.ru
+766,Network Administrator / Сетевой инженер,З/П не указана,,,,https://hh.ru/vacancy/75901768?from=vacancy_search_list&query=python,hh.ru
+767,Аналитик данных,З/П не указана,,,,https://hh.ru/vacancy/76694853?from=vacancy_search_list&query=python,hh.ru
+768,Operations Analyst,З/П не указана,,,,https://hh.ru/vacancy/77139274?from=vacancy_search_list&query=python,hh.ru
+769,Backend Разработчик: Junior Ruby on Rails + Solidity (smart contracts),З/П не указана,,,,https://hh.ru/vacancy/77210825?from=vacancy_search_list&query=python,hh.ru
+770,Middle / Senior QA Engineer,150 000 – 220 000 руб.,150000.0,220000.0,руб.,https://hh.ru/vacancy/77200131?from=vacancy_search_list&query=python,hh.ru
+771,Инженер системы мониторинга (направление кибербезопасность),от 80 000 руб.,80000.0,,руб.,https://hh.ru/vacancy/77290818?from=vacancy_search_list&query=python,hh.ru
+772,Инженер (devOps),З/П не указана,,,,https://hh.ru/vacancy/77068301?from=vacancy_search_list&query=python,hh.ru
+773,Senior PHP Developer / PHP программист,3 000 – 5 000 EUR,3000.0,5000.0,EUR,https://hh.ru/vacancy/76779296?from=vacancy_search_list&query=python,hh.ru
+774,Data Engineer в Практикум,З/П не указана,,,,https://hh.ru/vacancy/77037098?from=vacancy_search_list&query=python,hh.ru
+775,Системный администратор Linux,от 70 000 руб.,70000.0,,руб.,https://hh.ru/vacancy/75698766?from=vacancy_search_list&query=python,hh.ru
+776,Системный архитектор/СТО,от 400 000 руб.,400000.0,,руб.,https://hh.ru/vacancy/75896764?from=vacancy_search_list&query=python,hh.ru
+777,Senior Python разработчик,З/П не указана,,,,https://hh.ru/vacancy/77206360?from=vacancy_search_list&query=python,hh.ru
+778,Программист С++,от 80 000 руб.,80000.0,,руб.,https://hh.ru/vacancy/76848247?from=vacancy_search_list&query=python,hh.ru
+779,"Data scientist (проект ""Антиспам"")",З/П не указана,,,,https://hh.ru/vacancy/69774675?from=vacancy_search_list&query=python,hh.ru
+780,Продуктовый аналитик,З/П не указана,,,,https://hh.ru/vacancy/76218409?from=vacancy_search_list&query=python,hh.ru
+781,Senior DevOps,до 400 000 руб.,,400000.0,руб.,https://hh.ru/vacancy/77014448?from=vacancy_search_list&query=python,hh.ru
+782,CI Engineer,от 5 000 USD,5000.0,,USD,https://hh.ru/vacancy/76770084?from=vacancy_search_list&query=python,hh.ru
+783,Инженер сопровождения и автоматизации,З/П не указана,,,,https://hh.ru/vacancy/77145937?from=vacancy_search_list&query=python,hh.ru
+784,DBA PostgreSQL/Администратор баз данных,З/П не указана,,,,https://hh.ru/vacancy/66987957?from=vacancy_search_list&query=python,hh.ru
+785,Fraud Activity Analyst,З/П не указана,,,,https://hh.ru/vacancy/76704863?from=vacancy_search_list&query=python,hh.ru
+786,QA Engineer (Junior),З/П не указана,,,,https://hh.ru/vacancy/76590365?from=vacancy_search_list&query=python,hh.ru
+787,Аналитик в группу аналитики рынка,З/П не указана,,,,https://hh.ru/vacancy/76829091?from=vacancy_search_list&query=python,hh.ru
+788,Разработчик fullstack,40 000 – 80 000 руб.,40000.0,80000.0,руб.,https://hh.ru/vacancy/76984981?from=vacancy_search_list&query=python,hh.ru
+789,Системный программист / разработчик С/C++ (LINUX),от 80 000 руб.,80000.0,,руб.,https://hh.ru/vacancy/77092805?from=vacancy_search_list&query=python,hh.ru
+790,Инженер внедрения программного обеспечения,до 170 000 руб.,,170000.0,руб.,https://hh.ru/vacancy/75556406?from=vacancy_search_list&query=python,hh.ru
+791,C++ Разработчик в Браузер,З/П не указана,,,,https://hh.ru/vacancy/76204817?from=vacancy_search_list&query=python,hh.ru
+792,Руководитель группы/лаборатории Reinforcement Learning,от 200 000 руб.,200000.0,,руб.,https://hh.ru/vacancy/76949717?from=vacancy_search_list&query=python,hh.ru
+793,Преподаватель по программированию,20 000 – 70 000 руб.,20000.0,70000.0,руб.,https://hh.ru/vacancy/76844666?from=vacancy_search_list&query=python,hh.ru
+794,Lead data scientist (Анализ цены и Trade in),З/П не указана,,,,https://hh.ru/vacancy/76954383?from=vacancy_search_list&query=python,hh.ru
+795,Системный администратор СУБД (Junior),З/П не указана,,,,https://hh.ru/vacancy/77303268?from=vacancy_search_list&query=python,hh.ru
+796,Реверс-инженер,100 000 – 160 000 руб.,100000.0,160000.0,руб.,https://hh.ru/vacancy/54462736?from=vacancy_search_list&query=python,hh.ru
+797,Tools Programmer C++ (Мир танков),З/П не указана,,,,https://hh.ru/vacancy/77120762?from=vacancy_search_list&query=python,hh.ru
+798,Build Engineer (Tanks Blitz),З/П не указана,,,,https://hh.ru/vacancy/72433986?from=vacancy_search_list&query=python,hh.ru
+799,Продуктовый аналитик в Едадил,З/П не указана,,,,https://hh.ru/vacancy/77026097?from=vacancy_search_list&query=python,hh.ru
